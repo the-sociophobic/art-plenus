@@ -1,5 +1,8 @@
+import axios from 'axios'
+
 import { getNthChild } from '../utils/coordinates'
 import { findByClassNames, findByTagNames } from '../utils/find'
+
 
 export const insertButton = () => {
   const button = document.createElement('button')
@@ -16,9 +19,16 @@ export const insertButton = () => {
   button.style.zIndex = '10000'
   button.style.top = '100px'
   button.style.right = '100px'
-  button.onclick = collectData
+  button.onclick = postData
 
   document.body.appendChild(button)
+}
+
+const postData = async () => {
+  const data = collectData()
+  const res = (await axios.post('http://localhost:5015/add-painting', { painting: data })).data
+
+  console.log(res)
 }
 
 const collectData = () => {
@@ -47,13 +57,18 @@ const getImagesURLs = () => {
   const images = findByTagNames<HTMLAnchorElement>(['a'])
     .filter(image => image.classList.contains('cloud-zoom-gallery'))
 
-  if (images.length > 0)
-    return images
-      // .slice(0, Math.floor(images.length / 2))
+  if (images.length > 0) {
+    const imagesParsed = new Map<string, any>()
+
+    images
       .map(image => ({
         img: image.href,
         title: image.title
       }))
+      .forEach(image => imagesParsed.set(image.img, image))
+
+    return [...imagesParsed].map(([_name, value]) => value)
+  }
 
   const singleImage = document.getElementById('photoProduct') as HTMLAnchorElement
   let singleImageTitle: HTMLImageElement = getNthChild(singleImage, 0)

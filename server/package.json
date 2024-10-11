@@ -1,0 +1,32 @@
+{
+  "name": "maytry-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "clean": "rm -rf dist",
+    "build": "yarn run clean && NODE_ENV=prod npx tsc",
+    "start": "node dist/index.js",
+    "dev": "NODE_ENV=dev nodemon src/index.ts",
+    "postinstall": "mkdir storage"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.17",
+    "axios": "0.27.2",
+    "contentful": "^11.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "@typescript-eslint/parser": "^5.35.1",
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.7.0",
+    "tslib": "^2.4.0"
+  }
+}
