@@ -1,7 +1,7 @@
 {
   "author": "Lef Vasilef",
   "manifest_version": 3,
-  "name": "socrealizm.com.ua copy",
+  "name": "pont-des-arts-extension",
   "version": "1.0",
   "description": "Toolkit for content copy",
   "permissions": ["activeTab", "scripting"],

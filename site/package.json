@@ -1,0 +1,37 @@
+{
+  "name": "pont-des-arts-site",
+  "homepage": "https://the-sociophobic.github.io/pont-des-arts/",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "gh-pages": "^6.1.1",
+    "lodash": "^4.17.21",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-query": "^3.39.3",
+    "react-router-dom": "^6.24.1",
+    "resize-observer-polyfill": "^1.5.1",
+    "sass": "^1.77.6",
+    "zustand": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.6",
+    "@types/node": "^22.7.5",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^4.3.1",
+    "path": "^0.12.7",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1",
+    "vite-plugin-svgr": "^4.2.0"
+  }
+}

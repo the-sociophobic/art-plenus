@@ -1,0 +1,158 @@
+@import './vars.sass'
+@import './fonts.sass'
+@import './modificators.sass'
+
+
+.Img
+  width: 100%
+  transition: opacity $menu-transition
+  &--hidden
+    opacity: 0
+  &__img
+    width: 100%
+    &--portrait
+      width: 100%
+      height: auto
+    &--landscape
+      width: auto
+      height: 100%
+
+
+$button-height: 20px
+.Button
+  cursor: pointer
+  display: block
+  outline: none
+  border: none
+  background-color: rgba(0, 0, 0, 0)
+  &--disabled
+    opacity: .5
+    cursor: not-allowed
+  padding: 0 10px
+  height: $button-height
+  line-height: $button-height
+  color: $main-text
+  @media (hover: hover) and (pointer: fine)
+    &:hover
+      opacity: .4
+  &--gray
+    background-color: $main-gray
+  &--hoverable:hover
+    @media (hover: hover) and (pointer: fine)
+      background-color: $main-gray
+  &--black
+    color: $main-background
+    background-color: $main-text
+  &--transparent
+    color: $main-background
+    background-color: rgba(0, 0, 0, 0)
+  &--medium
+    font-size: 30px
+    padding: 0 15px
+    height: $button-height * 2
+    line-height: $button-height * 2
+
+
+.Input,
+.TextArea
+  width: 100%
+  position: relative
+  &__label
+    @extend .h4
+    @extend .mb-3
+  &__input
+    width: 100%
+    background-color: $main-background
+    border-radius: 0
+    padding: 0 10px
+    color: $main-text
+    line-height: $button-height
+    outline: none
+    border: 0
+    box-shadow: inset 0px 0px 0px 1px $main-text
+    position: relative
+    // Remove arrows
+    /* Chrome, Safari, Edge, Opera */
+    &::-webkit-outer-spin-button,
+    &::-webkit-inner-spin-button
+      -webkit-appearance: none
+      margin: 0
+    /* Firefox */
+    &[type=number]
+      -moz-appearance: textfield
+    &--max
+      padding-right: 170px
+  &__max
+    cursor: pointer
+    max-width: 200px
+    text-align: right
+    line-height: 2
+    padding: 8px 15px 8px 10px
+    position: absolute
+    top: 0
+    right: 0
+    &__text,
+    &__number
+      display: inline-block
+    &__text
+      margin-right: 10px
+      color: $main-text
+    &__number
+      color: $secondary-text
+  &__children
+    position: absolute
+    z-index: 100
+    left: 0
+    top: 100%
+    width: 100%
+  &--accepted
+    input,
+    textarea
+      @extend .accepted-input
+
+.inactive-input
+  transition: border-color .35s, box-shadow .35s
+  border: .5px solid $main-gray
+.focused-input
+  transition: border-color .35s, box-shadow .35s
+  border: .5px solid $main-text
+.accepted-input
+  transition: border-color .35s, box-shadow .35s
+  border: .5px solid green !important
+  box-shadow: 0 0 10px 0 #01FE0180
+
+
+.Loader
+  position: fixed
+  top: 0
+  left: 0
+  width: 100vw
+  height: 100vh
+  background-color: $main-background
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-items: center
+  &__Logo
+    animation: scale 2s ease-in-out infinite
+    @keyframes scale
+      0%
+        transform: scale(2)
+      50%
+        transform: scale(2.4)
+      100%
+        transform: scale(2)
+
+.PaintingCard
+  width: 24%
+  @extend .d-flex
+  @extend .flex-column
+  @extend .justify-content-between
+  @extend .my-5
+  &__Img
+  &__name
+    margin-top: auto
+
+.PaintingPage
+  &__Img
+    width: 300px

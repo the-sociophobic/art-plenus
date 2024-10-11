@@ -74,10 +74,10 @@ const getImagesURLs = () => {
   let singleImageTitle: HTMLImageElement = getNthChild(singleImage, 0)
   singleImageTitle = getNthChild(singleImageTitle, 1) as HTMLImageElement
 
-  return ({
+  return [{
     img: singleImage.href,
     title: singleImageTitle.alt
-  })
+  }]
 }
 
 const getTitle = () => {

@@ -1,0 +1,15 @@
+:root {
+  color-scheme: light dark;
+
+  --main-background: white;
+  --main-text: #202025;
+  --lef-color: #6c50e3;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --main-background: #202025;
+    --main-text: #e8eaed;
+    --lef-color: #8a3ae9;
+  }
+}
