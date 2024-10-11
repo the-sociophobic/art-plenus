@@ -2,14 +2,14 @@ import React from 'react'
 
 // import ResizeObserver from 'resize-observer-polyfill'
 
-import { File } from '../hooks/useContentful/types'
+// import { File } from '../hooks/useContentful/types'
 
 
 
 type Props = {
   src?: string
   className?: string
-  file?: File | undefined
+  // file?: File | undefined
   alt?: string
   noCrop?: boolean
   urlParams?: string
@@ -54,8 +54,10 @@ class Img extends React.Component<Props, State> {
     >
       <img
         ref={this.imgRef}
-        alt={this.props.alt || this.props?.file?.file?.fileName || ''}
-        src={`${this.props.src || this.props?.file?.file?.url || ''}${this.props.urlParams || ''}`}
+        // alt={this.props.alt || this.props?.file?.file?.fileName || ''}
+        // src={`${this.props.src || this.props?.file?.file?.url || ''}${this.props.urlParams || ''}`}
+        alt={this.props.alt || ''}
+        src={`${this.props.src || ''}${this.props.urlParams || ''}`}
         className={`
           Img__img
         `}

@@ -1,6 +1,6 @@
 import { useLocation } from 'react-router-dom'
 
-import routes from '../components/ProtectedRoutes/routes'
+import routes from '../components/common/ProtectedRoutes/routes'
 
 
 const useRoute = () => {

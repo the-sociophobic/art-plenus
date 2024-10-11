@@ -6,7 +6,7 @@ const useTitle = ( title?: string ) => {
 
   React.useEffect(() => {
     document.title = res
-  }, [title])
+  }, [res])
 
   return res
 }

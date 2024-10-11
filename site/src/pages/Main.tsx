@@ -4,7 +4,7 @@ import usePaintings from '../hooks/usePaintings'
 import PaintingCard from '../components/PaintingCard'
 
 
-const Main: FC = ({ }) => {
+const Main: FC = () => {
   const paintings = usePaintings()
 
   return (
