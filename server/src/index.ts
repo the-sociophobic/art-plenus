@@ -21,6 +21,14 @@ app.post('/add-painting', async (request: Request, response: Responce) => {
   response.send(true)
 })
 
+app.post('/add-artist', async (request: Request, response: Responce) => {
+  const { artist } = request.body
+
+  storage.push('artists.json', artist)
+  
+  response.send(true)
+})
+
 
 const init = () => {
   app.listen(SERVER_PORT, () => console.log(`Running on port ${SERVER_PORT}`))
