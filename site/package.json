@@ -1,6 +1,6 @@
 {
-  "name": "pont-des-arts-site",
-  "homepage": "https://the-sociophobic.github.io/pont-des-arts/",
+  "name": "art-plenus-site",
+  "homepage": "https://the-sociophobic.github.io/art-plenus/",
   "private": true,
   "scripts": {
     "dev": "vite",
