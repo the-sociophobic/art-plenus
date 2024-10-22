@@ -7,16 +7,19 @@ import Loader from '../Loader'
 import routes, { RouteType } from './routes'
 import Layout from '../Layout'
 import Redirect from '../Redirect'
-import usePaintings from '../../../hooks/usePaintings'
-import { PaintingType } from '../../../hooks/usePaintings/types'
-import PaintingPage from '../../../pages/PaintingPage'
+// import usePaintings from '../../../hooks/usePaintings'
+// import { PaintingType } from '../../../hooks/usePaintings/types'
+// import PaintingPage from '../../../pages/PaintingPage'
+import useArtists from '../../../hooks/useArtists'
+import { ArtistType } from '../../../hooks/useArtists/types'
+import ArtistPage from '../../../pages/ArtistPage'
 
 
 export type ProtectedRoutesProps = object
 
 const ProtectedRoutes: React.FC<ProtectedRoutesProps> = () => {
   const { user } = useStore()
-  const paintings = usePaintings()
+  const artists = useArtists()
 
   useEffect(() => useStore.setState({ user }), [user])
 
@@ -28,13 +31,13 @@ const ProtectedRoutes: React.FC<ProtectedRoutesProps> = () => {
           :
           routes
         ),
-        ...(!paintings ? [] : mapPaintingsRoutes(paintings))
+        ...(!artists ? [] : mapArtistsRoutes(artists))
       ])
     )
-    , [paintings, user]
+    , [artists, user]
   )
 
-  if (!paintings)
+  if (!artists)
     return <Loader />
 
   return <RouterProvider router={router} />
@@ -58,9 +61,16 @@ const mapRoutes = (
     errorElement: <Redirect to='/' />
   }))
 
-const mapPaintingsRoutes = (paintings: PaintingType[]) =>
-  paintings.map(painting => ({
-    to: painting.url,
-    title: painting.title,
-    Comp: <PaintingPage {...painting} />
+// const mapPaintingsRoutes = (paintings: PaintingType[]) =>
+//   paintings.map(painting => ({
+//     to: painting.url,
+//     title: painting.title,
+//     Comp: <PaintingPage {...painting} />
+//   })) || []
+
+const mapArtistsRoutes = (artists: ArtistType[]) =>
+  artists.map(artist => ({
+    to: artist.url,
+    title: artist.title,
+    Comp: <ArtistPage {...artist} />
   })) || []

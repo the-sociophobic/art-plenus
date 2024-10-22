@@ -10,7 +10,7 @@ export type LinkWrapperProps = {
   to?: string
   sameTab?: boolean
   children?: any
-  onClick?: () => void
+  onClick?: (e: any) => void
   disabled?: boolean
   exact?: boolean
   outerRef?: any

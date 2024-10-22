@@ -1,23 +1,23 @@
 import { FC } from 'react'
 
-import usePaintings from '../hooks/usePaintings'
-import PaintingCard from '../components/PaintingCard'
+import useArtists from '../hooks/useArtists'
+import ArtistCard from '../components/ArtistCard'
 
 
 const Main: FC = () => {
-  const paintings = usePaintings()
+  const artists = useArtists()
 
   return (
     <div className='container'>
       <h2 className='h2'>
-        Картины ({paintings.length})
+        Художники на А ({artists.length})
       </h2>
       
       <div className='d-flex flex-row flex-wrap justify-content-between align-items-stretch'>
-        {paintings.map((painting, paintingIndex) =>
-          <PaintingCard
-            key={paintingIndex}
-            {...painting}
+        {artists.map((artist, artistIndex) =>
+          <ArtistCard
+            key={artistIndex}
+            {...artist}
           />
         )}
       </div>
