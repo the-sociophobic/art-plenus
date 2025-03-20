@@ -3,7 +3,7 @@ import { postArtistData } from './add-artist'
 
 
 export const traversePages = () => {
-  const isCatalogPage = window.location.href.includes('per_page')
+  const isCatalogPage = window.location.href.includes('letter')
 
   if (isCatalogPage) {
     const artsts = findByClassNames(['items', 'items-brand-image'], ['ul'])[0].children
@@ -37,6 +37,6 @@ export const traversePages = () => {
     postArtistData()
     setTimeout(() => {
       history.back()
-    }, 250)
+    }, 450)
   }
 }

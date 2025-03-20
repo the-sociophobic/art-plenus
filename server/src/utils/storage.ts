@@ -9,7 +9,7 @@ class storage {
     return filePath
   }
 
-  static read = (fileName: string): object | any[] | undefined => {
+  static read = <T>(fileName: string): T => {
     const filePath = this.createFilePath(fileName)
     let file: object | any[] | undefined = undefined
   
@@ -20,7 +20,7 @@ class storage {
           'utf8'
         ))
   
-    return file
+    return file as T
   }
   
   static write = (fileName: string, dataToSave: object) => {

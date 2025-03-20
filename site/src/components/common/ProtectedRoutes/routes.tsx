@@ -1,6 +1,7 @@
 import Redirect from '../Redirect'
 
 import Main from '../../../pages/Main'
+import Artists from '../../../pages/Artists'
 
 
 export type RouteType = {
@@ -15,8 +16,13 @@ const routes: RouteType[] = [
   {
     to: '/',
     exact: true,
-    title: 'main',
+    title: 'Главная',
     Comp: <Main />,
+  },
+  {
+    to: '/artists',
+    title: 'База художников',
+    Comp: <Artists />,
   },
   {
     to: '/*',

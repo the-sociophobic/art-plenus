@@ -1,3 +1,5 @@
+// ОСТАНОВИЛСЯ ТУТ https://socrealizm.com.ua/gallery/artist/artistenburg-ii-1841
+
 import { insertButton } from './components/button'
 // import { postArtistData } from './routes/add-artist'
 // import { postPaintingData } from './routes/add-painting'
@@ -13,7 +15,7 @@ function main() {
   // }
   if (window.location.href.includes('socrealizm.com.ua/gallery')) {
     // insertButton(traversePages)
-    setTimeout(traversePages, 450)
+    setTimeout(traversePages, 555)
   }
 }
 

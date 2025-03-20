@@ -1,26 +1,38 @@
 import { FC } from 'react'
 
-import useArtists from '../hooks/useArtists'
-import ArtistCard from '../components/ArtistCard'
-
 
 const Main: FC = () => {
-  const artists = useArtists()
-
   return (
     <div className='container'>
-      <h2 className='h2'>
-        Художники на А ({artists.length})
-      </h2>
-      
-      <div className='d-flex flex-row flex-wrap justify-content-between align-items-stretch'>
-        {artists.map((artist, artistIndex) =>
-          <ArtistCard
-            key={artistIndex}
-            {...artist}
-          />
-        )}
-      </div>
+
+      <h3 className='h3'>
+        Artis Plenus
+      </h3>
+
+      <p className='p'>
+        - аукционный дом, старинная живопись, подбор картин для интерьера. Самые недорогие цены на картины 18 и 19 века
+      </p>
+
+      <p className='p'>
+        Окно поиска художников по базе
+      </p>
+
+      <p className='p'>
+        Место для трех картин на главной странице для привлечения внимания:
+      </p>
+
+      <p className='p'>
+        Прошедшие аукционы
+      </p>
+
+      <p className='p'>
+        Готовящиеся аукционы
+      </p>
+
+      <p className='p'>
+        Предложить работу на аукцион
+      </p>
+
     </div>
   )
 }
