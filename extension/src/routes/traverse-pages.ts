@@ -1,42 +1,37 @@
 import { findByClassNames } from '../utils/find'
-import { postArtistData } from './add-artist'
+import { postArtistsBatch } from './add-artist'
 
-
-export const traversePages = () => {
+export const traversePages = async () => {
   const isCatalogPage = window.location.href.includes('letter')
 
   if (isCatalogPage) {
-    const artsts = findByClassNames(['items', 'items-brand-image'], ['ul'])[0].children
-    const artistsLinks = [...artsts].map((li: Element) => (li.children[0] as HTMLAnchorElement).href)
-    console.log('artistsLinks', artistsLinks)
-    let currentArtist = localStorage.getItem('currentArtist')
+    const artistsElements = findByClassNames(['items', 'items-brand-image'], ['ul'])[0].children
+    const artistsData = [...artistsElements].map((li: Element) => {
+      const anchor = li.querySelector('a') as HTMLAnchorElement
+      const image = li.querySelector('img') as HTMLImageElement
+      const title = li.querySelector('p')?.textContent || ''
 
-    if (!currentArtist) {
-      currentArtist = artistsLinks[0]
-      localStorage.setItem('currentArtist', currentArtist)
-    }
+      return {
+        url: anchor?.href.replace('https://socrealizm.com.ua/gallery/artist/', ''),
+        title: title,
+        image: image?.src,
+        description: [], // Можно парсить прямо из каталога, если добавишь описание
+        birthDate: title.match(/\d{4}/g)?.[0],
+        deathDate: null // В каталоге нет этой инфы
+      }
+    })
 
-    if (currentArtist === 'next') {
-      localStorage.removeItem('currentArtist')
-      const nextPage = (findByClassNames(['next-page'], ['li'])[0].children[0] as HTMLAnchorElement).href
-      window.location.href = nextPage
-      return
-    }
+    await postArtistsBatch(artistsData)
 
-    const artistIndex = artistsLinks.indexOf(currentArtist)
+    // Таймаут и переход на следующую страницу
+    const nextPageElement = findByClassNames(['next-page'], ['li'])[0]?.children?.[0] as HTMLAnchorElement
 
-    if (artistIndex === artistsLinks.length - 1) {
-      localStorage.setItem('currentArtist', 'next')
+    if (nextPageElement && nextPageElement.href) {
+      setTimeout(() => {
+        window.location.href = nextPageElement.href
+      }, 4000) // Подольше, чтобы сервер не упал
     } else {
-      let nextArtist = artistsLinks[artistIndex + 1]
-      localStorage.setItem('currentArtist', nextArtist)
+      console.log('Последняя страница.')
     }
-    window.location.href = currentArtist
-
-  } else {
-    postArtistData()
-    setTimeout(() => {
-      history.back()
-    }, 450)
   }
 }

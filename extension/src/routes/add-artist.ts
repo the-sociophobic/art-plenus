@@ -1,87 +1,46 @@
 import axios from 'axios'
 
+// Утилита для поиска элементов по классам
 import { findByClassNames } from '../utils/find'
 
+export const getArtists = async () => {
+  const artists = await scrapeArtistsData()
+  console.log('Полученные художники:', artists)
 
-export const postArtistData = async () => {
-  const data = collectArtistData()
-  const res = (await axios.post('http://localhost:5015/add-artist', { artist: data })).data
-
-  console.log(res)
+  // Здесь можно отправить массив художников на сервер
+  // await postArtistsBatch(artists)
 }
 
-const collectArtistData = () => {
-  const data = {
-    url: getURL(),
-    title: getTitle(),
-    image: getImageURL(),
-    description: getDescription(),
-    birthDate: getBirthDate(),
-    deathDate: getDeathDate(),
-  }
+// Функция для парсинга данных о художниках
+const scrapeArtistsData = async (): Promise<{ name: string, link: string }[]> => {
+  // Массив для хранения данных о художниках
+  const artists: { name: string, link: string }[] = []
 
-  console.log(data)
+  // Получаем все элементы с именами художников
+  const artistElements = findByClassNames<HTMLSpanElement>(['title'], ['span'])
 
-  return data
-}
-
-const getURL = () => {
-  const url = window.location.href.replace('https://socrealizm.com.ua/gallery/artist/', '')
-
-  return url
-}
-
-const getTitle = () => {
-  const title = findByClassNames<HTMLParagraphElement>(['title'], ['p'])[0].textContent
-
-  return title!
-}
-
-const getImageURL = () => {
-  const block = findByClassNames<HTMLDivElement>(['photo-block', 'f_l'], ['div'])
-
-  if (block[0]?.children?.[1])
-    return (block[0].children[1] as HTMLImageElement).src
-
-  return undefined
-}
-
-const getDescription = (): string[] => {
-  const descriptions = findByClassNames<HTMLDivElement>(['description'], ['div'])
-  let description: any
-
-  descriptions.forEach(desc => {
-    if (desc.children.length >= 2)
-      description = desc
+  artistElements.forEach(artistElement => {
+    const name = artistElement.textContent?.trim() || ''
+    if (name) {
+      // Формируем ссылку на художника, используя имя
+      const artistLink = generateArtistLink(name)
+      artists.push({ name, link: artistLink })
+    }
   })
 
-  if (description) {
-    // console.log(description)    
-    return [...description.children]
-      .map((paragraph: HTMLParagraphElement | HTMLHeadingElement) => paragraph.textContent || '')
-  }
-
-  return []
+  return artists
 }
 
-const getBirthDate = () => {
-  const title = getTitle()
-
-  return (title || '').match(/\d{4}/gm)?.[0]
+// Функция для генерации ссылки на художника
+const generateArtistLink = (name: string): string => {
+  // Формируем часть ссылки из имени художника (заменяем пробелы на дефисы и приводим к нижнему регистру)
+  const artistSlug = name.toLowerCase().replace(/\s+/g, '-')
+  return `https://socrealizm.com.ua/gallery/artist/${artistSlug}`
 }
 
-const getDeathDate = () => {
-  const description = getDescription()
-  let date: string | undefined = undefined
-
-  for (let i = description.length - 1; i > 0; i--) {
-    const paragraph = description[i]
-
-    if (paragraph.toLowerCase().includes('умер')) {
-      date = paragraph.match(/\d{4}/gm)?.[0]
-      break
-    }
-  }
-
-  return date
+// Отправка данных на сервер
+export const postArtistsBatch = async (artists: any[]) => {
+  const res = await axios.post('http://localhost:5015/add-artist', { artists })
+  console.log('Отправлено художников:', artists.length)
+  console.log('Ответ сервера:', res.data)
 }
