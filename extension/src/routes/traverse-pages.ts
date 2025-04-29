@@ -2,7 +2,7 @@ import { findByClassNames } from '../utils/find'
 import { postArtistsBatch } from './add-artist'
 
 export const traversePages = async () => {
-  const isCatalogPage = window.location.href.includes('letter')
+  const isCatalogPage = window.location.href.split('?')[0].endsWith('artist')
 
   if (isCatalogPage) {
     const artistsElements = findByClassNames(['items', 'items-brand-image'], ['ul'])[0].children

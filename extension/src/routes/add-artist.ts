@@ -40,7 +40,7 @@ const generateArtistLink = (name: string): string => {
 
 // Отправка данных на сервер
 export const postArtistsBatch = async (artists: any[]) => {
-  const res = await axios.post('http://localhost:5015/add-artist', { artists })
+  const res = await axios.post('http://localhost:5015/add-artists', { artists })
   console.log('Отправлено художников:', artists.length)
   console.log('Ответ сервера:', res.data)
 }

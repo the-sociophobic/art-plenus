@@ -1,6 +1,8 @@
 import path from 'path'
 import fs from 'fs'
 
+import delay from './delay'
+
 
 class storage {
   static createFilePath = (fileName: string) => {
@@ -53,6 +55,19 @@ class storage {
       array = [dataToPush]
 
     this.write(fileName, array)
+  }
+
+  static pushArray = async <T>(fileName: string, arrayToPush: T[]) => {
+    let array = this.read(fileName) as T[] | undefined
+
+    if (array)
+      array.push(...arrayToPush)
+    else
+      array = [...arrayToPush]
+
+    this.write(fileName, array)
+
+    await delay()
   }
 }
 

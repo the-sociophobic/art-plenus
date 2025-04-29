@@ -15,7 +15,7 @@ function main() {
   // }
   if (window.location.href.includes('socrealizm.com.ua/gallery')) {
     // insertButton(traversePages)
-    setTimeout(traversePages, 4000)
+    traversePages()
   }
 }
 
