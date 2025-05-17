@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query'
 
-import { get } from '../utils/requests'
+import { post } from '../utils/requests'
 import {
   ArtistRequestType,
   ArtistResponceType
@@ -13,7 +13,7 @@ const useArtist = (props: ArtistRequestType) => useQuery({
 })
 
 const getArtist = async (props: ArtistRequestType) =>
-  get<ArtistResponceType>(`/artist/${props.url}`)
+  post<ArtistResponceType>(`/artist`, props)
 
 
 export default useArtist

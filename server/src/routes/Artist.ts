@@ -9,7 +9,7 @@ const Artist = async (
   request: Request<{}, {}, ArtistRequestType>,
   response: Responce<ArtistResponceType>
 ) => {
-  const { url } = request.params
+  const { body: { url } } = request
   const artists = (await storage.read<ArtistType[]>('all.json')) || []
   const artist = artists.find(artist => artist.url === url)
 

@@ -13,7 +13,6 @@ const FoundArtists = async (
   response: Responce<FoundArtistsResponceType>
 ) => {
   const { body: { query, page } } = request
-  console.log(query, page)
   const artists = (await storage.read<ArtistType[]>('all.json')) || []
   const _startFrom = (parseInt(page) - 1) * ARTISTS_PER_PAGE
   const startFrom = typeof _startFrom === 'number' && _startFrom < artists.length ? _startFrom : 0
@@ -31,7 +30,6 @@ const FoundArtists = async (
     numberOfPages: Math.ceil(filteredArtists.length / ARTISTS_PER_PAGE),
     numberOfArtists: filteredArtists.length
   }
-  console.log(res)
 
   response.send(res)
 }

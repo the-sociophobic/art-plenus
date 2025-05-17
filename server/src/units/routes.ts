@@ -11,8 +11,8 @@ const routes: RouteType[] = [
     fn: FoundArtists
   },
   {
-    type: 'GET',
-    path: '/artist/:url',
+    type: 'POST',
+    path: '/artist',
     fn: Artist
   },
 ]

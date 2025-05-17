@@ -12,7 +12,6 @@ const ArtistPage: FC<ArtistRequestType> = ({
   url,
 }) => {
   const { data: artist } = useArtist({ url })
-  console.log(artist)
 
   return !artist ?
     <Loader />
