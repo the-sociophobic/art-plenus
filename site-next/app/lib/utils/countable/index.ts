@@ -1,5 +1,5 @@
 const countable = (number: number, words: [string, string, string]) => {
-  if ((number % 100 >= 5 && number % 100 <= 20) || number % 10 >= 5 || number === 0)
+  if ((number % 100 >= 5 && number % 100 <= 20) || number % 10 >= 5 || number % 10 === 0)
     return words[2]
 
   if (number % 10 === 1)
