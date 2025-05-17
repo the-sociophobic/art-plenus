@@ -84,32 +84,6 @@ const { SERVER_PORT } = process.env
 //   response.send(true)
 // })
 
-const ARTISTS_PER_PAGE = 30
-
-app.post('/found-artists', async (
-  request: Request<{}, {}, FoundArtistsRequestType>,
-  response: Responce<FoundArtistsResponceType>
-) => {
-  const { body: { query, page } } = request
-  const artists = (await storage.read<ArtistType[]>('all.json')) || []
-  const _startFrom = (parseInt(page) - 1) * ARTISTS_PER_PAGE
-  const startFrom = typeof _startFrom === 'number' && _startFrom < artists.length ? _startFrom : 0
-  
-  const filteredArtists = artists
-    .filter(artist =>
-      artist.title.toLowerCase()
-        .includes(query.toLowerCase()))
-
-  const artistsOnPage = filteredArtists
-    .slice(startFrom, startFrom + ARTISTS_PER_PAGE)
-
-  const res: FoundArtistsResponceType = {
-    artists: artistsOnPage,
-    numberOfPages: Math.ceil(filteredArtists.length / ARTISTS_PER_PAGE)
-  }
-
-  response.send(res)
-})
 
 const init = () => {
   app.listen(SERVER_PORT, () => console.log(`Running on port ${SERVER_PORT}`))
