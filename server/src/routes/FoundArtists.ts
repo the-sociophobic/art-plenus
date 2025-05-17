@@ -23,7 +23,21 @@ const FoundArtists = async (
       indexOfQuery: artist.title.toLowerCase().indexOf(query.toLowerCase())
     }))
     .filter(artist => artist.indexOfQuery !== -1)
-    .sort((a, b) => a.indexOfQuery === 0 ? -1 : a.title.localeCompare(b.title))
+    .sort((a, b) => {
+      if (a.indexOfQuery === 0) {
+        if (b.indexOfQuery === 0) {
+          return a.title.localeCompare(b.title)
+        } else {
+          return -1
+        }
+      } else {
+        if (b.indexOfQuery === 0) {
+          return 1
+        } else {
+          return a.title.localeCompare(b.title)
+        }
+      }
+    })
   const artistsOnPage = filteredArtists
     .slice(startFrom, startFrom + ARTISTS_PER_PAGE)
 
