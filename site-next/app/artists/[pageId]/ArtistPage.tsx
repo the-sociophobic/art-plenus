@@ -1,29 +1,44 @@
+'use client'
+
 import { FC } from 'react'
 
-import { ArtistType } from '@/app/lib/types/index.types'
+import Loader from '@/app/lib/components/Loader'
+import useArtist from '@/app/lib/hooks/useArtist'
+
+import { ArtistRequestType } from '@/app/lib/types/requests.type'
 
 
-const ArtistPage: FC<ArtistType> = ({
+const ArtistPage: FC<ArtistRequestType> = ({
   url,
-  title,
-  description,
-  image,
-  birthDate,
-  deathDate
 }) => {
-  return (
-    <div className=''>
-      <div className='h3'>
-        {title}
+  const { data: artist } = useArtist({ url })
+  console.log(artist)
+
+  return !artist ?
+    <Loader />
+    :
+    <div className='container'>
+      <div className='mb-4'>
+        {artist.title}
       </div>
-      <div className=''>
-        {birthDate}{deathDate && ` – ${deathDate}`}
+      <div className=' mb-4'>
+        {artist.birthDate}{artist.deathDate && ` – ${artist.deathDate}`}
       </div>
-      <div className=''>
-        {description || 'Описание выгружается...'}
+      <div className=' mb-4'>
+        {artist.description.length === 0 ?
+          'Описание выгружается...'
+          :
+          artist.description.map((line, lineIndex) =>
+            <div
+              key={lineIndex}
+              className=''
+            >
+              {line}
+            </div>
+          )
+        }
       </div>
     </div>
-  )
 }
 
 

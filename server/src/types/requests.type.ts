@@ -13,4 +13,12 @@ export type FoundArtistsRequestType = {
 export type FoundArtistsResponceType = {
   artists: ArtistType[]
   numberOfPages: number
+  numberOfArtists: number
 }
+
+
+export type ArtistRequestType = {
+  url: string,
+}
+
+export type ArtistResponceType = ArtistType

@@ -1,7 +1,8 @@
+import Main from './lib/pages/Main'
+
+
 export default function Home() {
   return (
-    <div className=''>
-      Главная
-    </div>
+    <Main />
   )
 }

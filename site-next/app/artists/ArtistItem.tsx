@@ -4,16 +4,48 @@ import { ArtistType } from '../lib/types/index.types'
 import Link from 'next/link'
 
 
-const ArtistItem: FC<ArtistType> = ({
-  url,
-  title,
-  image,
-  birthDate,
+export type ArtistItemProps = {
+  artist: ArtistType
+  small?: boolean
+  higlightText?: string
+}
+
+
+const ArtistItem: FC<ArtistItemProps> = ({
+  artist,
+  small,
+  higlightText
 }) => {
+  const {
+    url,
+    title,
+    image,
+    birthDate,
+  } = artist
+  let _title = <>{title}</>
+
+  if (higlightText && higlightText.length > 0) {
+    const firstPartLength = title.toLowerCase().split(higlightText.toLowerCase())[0].length
+    const firstPart = title.slice(0, firstPartLength)
+    const higlightedPart = title.slice(firstPartLength, firstPartLength + higlightText.length)
+    const secondPart = title.slice(firstPartLength + higlightText.length)
+
+    _title = (
+      <div className='d-flex flex-row'>
+        <span>{firstPart}</span>
+        <span className='text-highlight'>{higlightedPart}</span>
+        <span>{secondPart}</span>
+      </div>
+    )
+  }
+
   return (
-    <Link href={`/artists/${url}`}>
-      <div className=''>
-        {title}
+    <Link
+      // className='w-100 d-block'
+      href={`/artists/${url}`}
+    >
+      <div className={`ArtistItem ${small && 'ArtistItem--small'}`}>
+        {_title}
       </div>
     </Link>
   )

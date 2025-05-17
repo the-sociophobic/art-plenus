@@ -1,5 +1,6 @@
 @import './theme.css'
 @import './vars.sass'
+@import './fonts.sass'
 @import './modificators.sass'
 @import './components.sass'
 
@@ -26,18 +27,19 @@ body
     @extend .d-flex
     @extend .flex-column
     .Header
-      &__link
-        font-size: 13.62px
-        line-height: 15.7px
-        color: #D3D3D3
-        &--active
-          color: #ACAA75
-      &__h1
-        color: #E6E6E6
-        font-size: 140px
-        line-height: 140px
-        white-space: nowrap
-
+      background-color: $white
+      &--relative
+        position: relative
+        @include media-breakpoint-down(md)
+          margin-bottom: 10px
+      &--fixed
+        @extend .d-flex
+        @extend .flex-column
+        z-index: 1000
+        position: fixed
+        top: 0
+        left: 0
+        width: 100vw
     .content
       position: relative
       width: 100vw

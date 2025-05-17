@@ -32,8 +32,12 @@ const Paginator: FC<PaginatorProps> = ({
   }
   )
 
-  return (
+  return numberOfPages === 0 ? <></> : (
     <div className='Paginator'>
+      <div className='Paginator__Item'>
+        Страницы
+      </div>
+
       {page - SURROUNDING_PAGES > 1 &&
         <>
           {buttons[0]}

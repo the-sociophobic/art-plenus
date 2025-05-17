@@ -8,3 +8,221 @@
   &__Item
     @extend .d-block
     padding: 10px
+
+
+.round-border
+  position: relative
+  width: 100%
+  height: 100%
+  padding: 0 !important
+  .round-border__content
+    background-color: $white
+    position: relative
+    z-index: 1000
+  &__round,
+  &__frames
+    @extend .abs-cover
+    z-index: 999
+  &__round
+    &::after
+      content: ''
+      position: absolute
+      top: 100%
+      left: 50%
+      transform: translate(-50%, -52.5%) scale(120%, 9%)
+      width: 100%
+      padding-top: 100%
+      border-radius: 100vw
+      background-color: $white
+      border: 7px solid $black
+  &__frames
+    &::before,
+    &::after
+      content: ''
+      position: absolute
+      width: 40%
+      height: 100%
+      top: 0%
+      background-color: $white
+      z-index: 1000
+    &::before
+      right: 100%
+    &::after
+      left: 100%
+
+
+.ArtistItem
+  color: $black
+  padding: 0 10px
+  background-color: $white
+  white-space: nowrap
+  text-overflow: ellipsis
+  &:not(&--disabled)
+    &:hover
+      text-decoration: underline
+  &--small, & *
+    font-size: 15px
+
+.ArtistsSearch
+  position: relative
+  &__Dropdown
+    position: absolute
+    @extend .d-flex
+    @extend .flex-column
+    @extend .align-items-stretch
+    @extend .w-100
+    top: 100%
+    left: 0
+    border-left: 1px solid $delimeter-gray
+    border-right: 1px solid $delimeter-gray
+    border-bottom: 1px solid $delimeter-gray
+    padding: 7px 0
+
+  
+$button-height: 28px
+.Button
+  cursor: pointer
+  display: block
+  outline: none
+  border: none
+  background-color: rgba(0, 0, 0, 0)
+  &--disabled
+    opacity: .5
+    cursor: not-allowed
+  padding: 0 10px
+  height: $button-height
+  line-height: $button-height
+  color: $main-text
+  @media (hover: hover) and (pointer: fine)
+    &:hover
+      opacity: .4
+  &--gray
+    background-color: $main-gray
+  &--hoverable:hover
+    @media (hover: hover) and (pointer: fine)
+      background-color: $main-gray
+  &--black
+    color: $main-background
+    background-color: $main-text
+  &--transparent
+    color: $main-background
+    background-color: rgba(0, 0, 0, 0)
+  &--medium
+    font-size: 30px
+    padding: 0 15px
+    height: $button-height * 2
+    line-height: $button-height * 2
+
+.Link
+  &--disabled
+    opacity: .5
+    cursor: not-allowed
+
+  
+.Input,
+.TextArea
+  width: 100%
+  position: relative
+  &__label
+    @include font-params(11, 14)
+    @extend .mb-1
+  &__input
+    width: 100%
+    background-color: $main-background
+    border-radius: 0
+    padding: 0 10px
+    color: $main-text
+    line-height: $button-height
+    outline: none
+    border: 0
+    box-shadow: inset 0px 0px 0px 1px $main-text
+    position: relative
+    // Remove arrows
+    /* Chrome, Safari, Edge, Opera */
+    &::-webkit-outer-spin-button,
+    &::-webkit-inner-spin-button
+      -webkit-appearance: none
+      margin: 0
+    /* Firefox */
+    &[type=number]
+      -moz-appearance: textfield
+    &--max
+      padding-right: 170px
+  &__max
+    cursor: pointer
+    max-width: 200px
+    text-align: right
+    line-height: 2
+    padding: 8px 15px 8px 10px
+    position: absolute
+    top: 0
+    right: 0
+    &__text,
+    &__number
+      display: inline-block
+    &__text
+      margin-right: 10px
+      color: $main-text
+    &__number
+      color: $secondary-text
+  &__children
+    position: absolute
+    z-index: 100
+    left: 0
+    top: 100%
+    width: 100%
+  &--accepted
+    input,
+    textarea
+      @extend .accepted-input
+
+.inactive-input
+  transition: border-color .35s, box-shadow .35s
+  border: .5px solid $gray
+.focused-input
+  transition: border-color .35s, box-shadow .35s
+  border: .5px solid $main-text
+.accepted-input
+  transition: border-color .35s, box-shadow .35s
+  border: .5px solid $green-button-border !important
+  box-shadow: 0 0 10px 0 #01FE0180
+
+
+.Loader
+  position: fixed
+  top: 0
+  left: 0
+  width: 100vw
+  height: 100vh
+  background-color: $main-background
+  opacity: .9
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-items: center
+  z-index: 1000
+  &__bar-container
+    width: 100px
+    height: 7px
+    border: 1px solid $main-text
+  &__bar
+    height: 7px
+    background-color: $main-text
+    animation: progress-bar 3s ease-in-out infinite
+    @keyframes progress-bar
+      0%
+        width: 0%
+      7%
+        width: 10%
+      20%
+        width: 17%
+      30%
+        width: 25%
+      40%
+        width: 37%
+      60%
+        width: 55%
+      80%
+        width: 85%
+      100%
+        width: 100%
