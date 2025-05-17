@@ -18,10 +18,12 @@ const FoundArtists = async (
   const startFrom = typeof _startFrom === 'number' && _startFrom < artists.length ? _startFrom : 0
   
   const filteredArtists = artists
-    .filter(artist =>
-      artist.title.toLowerCase()
-        .includes(query.toLowerCase()))
-
+    .map(artist => ({
+      ...artist,
+      indexOfQuery: artist.title.toLowerCase().indexOf(query.toLowerCase())
+    }))
+    .filter(artist => artist.indexOfQuery !== -1)
+    .sort((a, b) => a.indexOfQuery === 0 ? -1 : a.title.localeCompare(b.title))
   const artistsOnPage = filteredArtists
     .slice(startFrom, startFrom + ARTISTS_PER_PAGE)
 
