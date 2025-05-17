@@ -1,0 +1,32 @@
+{
+  "name": "site-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 4006 --turbopack",
+    "build": "next build",
+    "start": "next start -p 4006",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.76.1",
+    "axios": "^1.9.0",
+    "bootstrap": "^5.3.6",
+    "date-fns": "^4.1.0",
+    "lodash": "^4.17.21",
+    "next": "15.3.2",
+    "react": "^19.0.0",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "^19.0.0",
+    "sass": "^1.89.0",
+    "zustand": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.16",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
