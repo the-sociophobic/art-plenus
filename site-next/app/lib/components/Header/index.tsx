@@ -1,3 +1,5 @@
+import { Suspense } from 'react'
+
 import HeaderBody from './HeaderBody'
 
 
@@ -5,10 +7,14 @@ const Header = () => {
   return (
     <>
       <div className={`Header Header--relative mb-5`}>
-        <HeaderBody />      
+        <Suspense>
+          <HeaderBody />
+        </Suspense>
       </div>
       <div className={`Header Header--fixed`}>
-        <HeaderBody />      
+        <Suspense>
+          <HeaderBody />
+        </Suspense>
       </div>
     </>
   )
