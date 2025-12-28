@@ -62,7 +62,7 @@ export const deleteReq = async <T>(path: string) => {
 
 
 export const BACKEND_URL = isProd() ?
-  'https://hyperdao.xyz/art-plenus'
+  'https://the-sociophobic.ru/art-plenus'
   :
   'http://localhost:5015'
 
