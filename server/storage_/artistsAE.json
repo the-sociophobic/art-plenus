@@ -1,1672 +1,2799 @@
 [
-    {
-        "url": "ebanoidze-shp-1921",
-        "title": "Эбаноидзе Ш.П. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ebanoidze-shp-1921.jpg",
-        "description": [],
-        "birthDate": "1921",
-        "deathDate": null
-    },
-    {
-        "url": "eberling-ar-1871",
-        "title": "Эберлинг А.Р. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eberling-ar-1871.jpg",
-        "description": [],
-        "birthDate": "1871",
-        "deathDate": null
-    },
-    {
-        "url": "eberling-ar-1872",
-        "title": "Эберлинг А.Р. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eberling-ar-1872.jpg",
-        "description": [],
-        "birthDate": "1872",
-        "deathDate": null
-    },
-    {
-        "url": "eberman-mv-1885",
-        "title": "Эберман М.В. ?",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eberman-mv-1885.jpg",
-        "description": [],
-        "birthDate": "1885",
-        "deathDate": null
-    },
-    {
-        "url": "ebers-bm-1889",
-        "title": "Эберс (Еберс)  Б.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ebers-bm-1889.jpg",
-        "description": [],
-        "birthDate": "1889",
-        "deathDate": null
-    },
-    {
-        "url": "eborovich-es-1888",
-        "title": "Эборович Е.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eborovich-es-1888.jpg",
-        "description": [],
-        "birthDate": "1888",
-        "deathDate": null
-    },
-    {
-        "url": "evenbah-ek-1889",
-        "title": "Эвенбах Е.К. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/evenbah-ek-1889.jpg",
-        "description": [],
-        "birthDate": "1889",
-        "deathDate": null
-    },
-    {
-        "url": "evenbah-sm-1870",
-        "title": "Эвенбах С.М. -",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/evenbah-sm-1870.jpg",
-        "description": [],
-        "birthDate": "1870",
-        "deathDate": null
-    },
-    {
-        "url": "everling-na-1962",
-        "title": "Эверлинг Н.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/everling-na-1962.jpg",
-        "description": [],
-        "birthDate": "1962",
-        "deathDate": null
-    },
-    {
-        "url": "evert-nv-1947",
-        "title": "Эверт Н.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/evert-nv-1947.jpg",
-        "description": [],
-        "birthDate": "1947",
-        "deathDate": null
-    },
-    {
-        "url": "evoyan-g-1957",
-        "title": "Эвоян Г.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/evoyan-g-1957.jpg",
-        "description": [],
-        "birthDate": "1957",
-        "deathDate": null
-    },
-    {
-        "url": "egiz-bi-1869",
-        "title": "Эгиз Б.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/egiz-bi-1869.jpg",
-        "description": [],
-        "birthDate": "1869",
-        "deathDate": null
-    },
-    {
-        "url": "egle-ai-1905",
-        "title": "Эгле А.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/egle-ai-1905.jpg",
-        "description": [],
-        "birthDate": "1905",
-        "deathDate": null
-    },
-    {
-        "url": "eglit-af-1907",
-        "title": "Эглит А.Ф. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eglit-af-1907.jpg",
-        "description": [],
-        "birthDate": "1907",
-        "deathDate": null
-    },
-    {
-        "url": "eglite-la-1945",
-        "title": "Эглите Л.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eglite-la-1945.jpg",
-        "description": [],
-        "birthDate": "1945",
-        "deathDate": null
-    },
-    {
-        "url": "eglitis-via-1938",
-        "title": "Эглитис В.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eglitis-via-1938.jpg",
-        "description": [],
-        "birthDate": "1938",
-        "deathDate": null
-    },
-    {
-        "url": "edel-man-gs-1938",
-        "title": "Эдельман Г.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/edel-man-gs-1938.jpg",
-        "description": [],
-        "birthDate": "1938",
-        "deathDate": null
-    },
-    {
-        "url": "edel-man-iya-1946",
-        "title": "Эдельман И.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/edel-man-iya-1946.jpg",
-        "description": [],
-        "birthDate": "1946",
-        "deathDate": null
-    },
-    {
-        "url": "edelfelt-aa-1854",
-        "title": "Эдельфельт А.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/edelfelt-aa-1854.jpg",
-        "description": [],
-        "birthDate": "1854",
-        "deathDate": null
-    },
-    {
-        "url": "edel-fel-t-ag-1854",
-        "title": "Эдельфельт А.Г. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/edel-fel-t-ag-1854.jpg",
-        "description": [],
-        "birthDate": "1854",
-        "deathDate": null
-    },
-    {
-        "url": "edelshtein-kv-1909",
-        "title": "Эдельштейн К.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/edelshtein-kv-1909.jpg",
-        "description": [],
-        "birthDate": "1909",
-        "deathDate": null
-    },
-    {
-        "url": "edzgveradze-g-1952",
-        "title": "Эдзгверадзе Г. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/edzgveradze-g-1952.jpg",
-        "description": [],
-        "birthDate": "1952",
-        "deathDate": null
-    },
-    {
-        "url": "eduards-bv-1860",
-        "title": "Эдуардс Б.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eduards-bv-1860.jpg",
-        "description": [],
-        "birthDate": "1860",
-        "deathDate": null
-    },
-    {
-        "url": "ezdekov-vh-1940",
-        "title": "Эздеков В.Х. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ezdekov-vh-1940.jpg",
-        "description": [],
-        "birthDate": "1940",
-        "deathDate": null
-    },
-    {
-        "url": "ezergayle-dya-1926",
-        "title": "Эзергайле Д.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ezergayle-dya-1926.jpg",
-        "description": [],
-        "birthDate": "1926",
-        "deathDate": null
-    },
-    {
-        "url": "ezerniek-gia-1932",
-        "title": "Эзерниек Г.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ezerniek-gia-1932.jpg",
-        "description": [],
-        "birthDate": "1932",
-        "deathDate": null
-    },
-    {
-        "url": "eybish-e-1896",
-        "title": "Эйбиш Е.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eybish-e-1896.jpg",
-        "description": [],
-        "birthDate": "1896",
-        "deathDate": null
-    },
-    {
-        "url": "eybushic-yus-1907",
-        "title": "Эйбушиц Ю.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eybushic-yus-1907.jpg",
-        "description": [],
-        "birthDate": "1907",
-        "deathDate": null
-    },
-    {
-        "url": "eiges-vr-1888",
-        "title": "Эйгес В.Р. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eiges-vr-1888.jpg",
-        "description": [],
-        "birthDate": "1888",
-        "deathDate": null
-    },
-    {
-        "url": "eyges-ov-1910",
-        "title": "Эйгес О.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyges-ov-1910.jpg",
-        "description": [],
-        "birthDate": "1910",
-        "deathDate": null
-    },
-    {
-        "url": "eiges-sk-1910",
-        "title": "Эйгес С.К. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eiges-sk-1910.jpg",
-        "description": [],
-        "birthDate": "1910",
-        "deathDate": null
-    },
-    {
-        "url": "eyges-tv-1912",
-        "title": "Эйгес Т.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyges-tv-1912.jpg",
-        "description": [],
-        "birthDate": "1912",
-        "deathDate": null
-    },
-    {
-        "url": "eidelman-il-1931",
-        "title": "Эйдельман (Ейдельман) И.Л. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eidelman-il-1931.jpg",
-        "description": [],
-        "birthDate": "1931",
-        "deathDate": null
-    },
-    {
-        "url": "eydi-ga-1975",
-        "title": "Эйди Г.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eydi-ga-1975.jpg",
-        "description": [],
-        "birthDate": "1975",
-        "deathDate": null
-    },
-    {
-        "url": "eydlin-lyu-1918",
-        "title": "Эйдлин Л.Ю. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eydlin-lyu-1918.jpg",
-        "description": [],
-        "birthDate": "1918",
-        "deathDate": null
-    },
-    {
-        "url": "eydrigyavichyus-sl-1949",
-        "title": "Эйдригявичюс С.Л. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eydrigyavichyus-sl-1949.jpg",
-        "description": [],
-        "birthDate": "1949",
-        "deathDate": null
-    },
-    {
-        "url": "eizenshtein-sm-1898",
-        "title": "Эйзенштейн С.М. -",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eizenshtein-sm-1898.jpg",
-        "description": [],
-        "birthDate": "1898",
-        "deathDate": null
-    },
-    {
-        "url": "eizerikov-mi-1922",
-        "title": "Эйзериков М.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eizerikov-mi-1922.jpg",
-        "description": [],
-        "birthDate": "1922",
-        "deathDate": null
-    },
-    {
-        "url": "eykel-man-sm-1911",
-        "title": "Эйкельман С.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eykel-man-sm-1911.jpg",
-        "description": [],
-        "birthDate": "1911",
-        "deathDate": null
-    },
-    {
-        "url": "eylanbekov-sr-1960",
-        "title": "Эйланбеков С.Р. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eylanbekov-sr-1960.jpg",
-        "description": [],
-        "birthDate": "1960",
-        "deathDate": null
-    },
-    {
-        "url": "eylenkri-yui-1915",
-        "title": "Эйленкри Ю.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eylenkri-yui-1915.jpg",
-        "description": [],
-        "birthDate": "1915",
-        "deathDate": null
-    },
-    {
-        "url": "eymanavichene-gb-1942",
-        "title": "Эйманавичене Г.Б. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eymanavichene-gb-1942.jpg",
-        "description": [],
-        "birthDate": "1942",
-        "deathDate": null
-    },
-    {
-        "url": "eynmann-eya-1913",
-        "title": "Эйнманн Э.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eynmann-eya-1913.jpg",
-        "description": [],
-        "birthDate": "1913",
-        "deathDate": null
-    },
-    {
-        "url": "eysman-semenovskiy-e-1857",
-        "title": "Эйсман-Семеновский Э.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eysman-semenovskiy-e-1857.jpg",
-        "description": [],
-        "birthDate": "1857",
-        "deathDate": null
-    },
-    {
-        "url": "eismont-vv-1945",
-        "title": "Эйсмонт В.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eismont-vv-1945.jpg",
-        "description": [],
-        "birthDate": "1945",
-        "deathDate": null
-    },
-    {
-        "url": "eysner-ap-1872",
-        "title": "Эйснер А.П. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eysner-ap-1872.jpg",
-        "description": [],
-        "birthDate": "1872",
-        "deathDate": null
-    },
-    {
-        "url": "eysner-pi-1839",
-        "title": "Эйснер П.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eysner-pi-1839.jpg",
-        "description": [],
-        "birthDate": "1839",
-        "deathDate": null
-    },
-    {
-        "url": "eyteneyer-a-1949",
-        "title": "Эйтенейер А.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyteneyer-a-1949.jpg",
-        "description": [],
-        "birthDate": "1949",
-        "deathDate": null
-    },
-    {
-        "url": "eytmanayte-mf-1931",
-        "title": "Эйтманайте М.Ф. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eytmanayte-mf-1931.jpg",
-        "description": [],
-        "birthDate": "1931",
-        "deathDate": null
-    },
-    {
-        "url": "eitmanaite-mf-1931",
-        "title": "Эйтманайте М.Ф. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eitmanaite-mf-1931.jpg",
-        "description": [],
-        "birthDate": "1931",
-        "deathDate": null
-    },
-    {
-        "url": "eyfert-va-1884",
-        "title": "Эйферт В.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyfert-va-1884.jpg",
-        "description": [],
-        "birthDate": "1884",
-        "deathDate": null
-    },
-    {
-        "url": "eifert-va-1884",
-        "title": "Эйферт В.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eifert-va-1884.jpg",
-        "description": [],
-        "birthDate": "1884",
-        "deathDate": null
-    },
-    {
-        "url": "eyhman-mg-1921",
-        "title": "Эйхман М.Г. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyhman-mg-1921.jpg",
-        "description": [],
-        "birthDate": "1921",
-        "deathDate": null
-    },
-    {
-        "url": "ekber-eg-1962",
-        "title": "Экбер Е.Г. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ekber-eg-1962.jpg",
-        "description": [],
-        "birthDate": "1962",
-        "deathDate": null
-    },
-    {
-        "url": "ekgorst-ve-1831",
-        "title": "Экгорст В.Е. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ekgorst-ve-1831.jpg",
-        "description": [],
-        "birthDate": "1831",
-        "deathDate": null
-    },
-    {
-        "url": "ekkert-ef-1890",
-        "title": "Эккерт Э.Ф. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ekkert-ef-1890.jpg",
-        "description": [],
-        "birthDate": "1890",
-        "deathDate": null
-    },
-    {
-        "url": "ekman-rv-1808",
-        "title": "Экман Р.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ekman-rv-1808.jpg",
-        "description": [],
-        "birthDate": "1808",
-        "deathDate": null
-    },
-    {
-        "url": "ekster-aa-1882",
-        "title": "Экстер А.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ekster-aa-1882.jpg",
-        "description": [],
-        "birthDate": "1882",
-        "deathDate": null
-    },
-    {
-        "url": "elaken-el-kina-do-1987",
-        "title": "Элакен (Елькина) Д.О. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elaken-el-kina-do-1987.jpg",
-        "description": [],
-        "birthDate": "1987",
-        "deathDate": null
-    },
-    {
-        "url": "eledzhiev-nya-1938",
-        "title": "Эледжиев Н.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eledzhiev-nya-1938.jpg",
-        "description": [],
-        "birthDate": "1938",
-        "deathDate": null
-    },
-    {
-        "url": "elezhkevich-s-1900",
-        "title": "Элежкевич С.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elezhkevich-s-1900.jpg",
-        "description": [],
-        "birthDate": "1900",
-        "deathDate": null
-    },
-    {
-        "url": "elentuh-ib-1913",
-        "title": "Элентух И.Б. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elentuh-ib-1913.jpg",
-        "description": [],
-        "birthDate": "1913",
-        "deathDate": null
-    },
-    {
-        "url": "eleon-ne-1951",
-        "title": "Элеон Н.Е. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eleon-ne-1951.jpg",
-        "description": [],
-        "birthDate": "1951",
-        "deathDate": null
-    },
-    {
-        "url": "elers-k-1733",
-        "title": "Элерс К.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elers-k-1733.jpg",
-        "description": [],
-        "birthDate": "1733",
-        "deathDate": null
-    },
-    {
-        "url": "eliava-ta-1933",
-        "title": "Элиава Т.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eliava-ta-1933.jpg",
-        "description": [],
-        "birthDate": "1933",
-        "deathDate": null
-    },
-    {
-        "url": "elias-gia-1887",
-        "title": "Элиас Г.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elias-gia-1887.jpg",
-        "description": [],
-        "birthDate": "1887",
-        "deathDate": null
-    },
-    {
-        "url": "elias-mv-1911",
-        "title": "Элиас М.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elias-mv-1911.jpg",
-        "description": [],
-        "birthDate": "1911",
-        "deathDate": null
-    },
-    {
-        "url": "elias-mk-1924",
-        "title": "Элиас М.К. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elias-mk-1924.jpg",
-        "description": [],
-        "birthDate": "1924",
-        "deathDate": null
-    },
-    {
-        "url": "eliasberg-nm-1940",
-        "title": "Элиасберг Н.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eliasberg-nm-1940.jpg",
-        "description": [],
-        "birthDate": "1940",
-        "deathDate": null
-    },
-    {
-        "url": "eliashvili-i-1973",
-        "title": "Элиашвили И.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eliashvili-i-1973.jpg",
-        "description": [],
-        "birthDate": "1973",
-        "deathDate": null
-    },
-    {
-        "url": "elibekyan-va-1910",
-        "title": "Элибекян В.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elibekyan-va-1910.jpg",
-        "description": [],
-        "birthDate": "1910",
-        "deathDate": null
-    },
-    {
-        "url": "elibekian-gv-1936",
-        "title": "Элибекян Г.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elibekian-gv-1936.jpg",
-        "description": [],
-        "birthDate": "1936",
-        "deathDate": null
-    },
-    {
-        "url": "elibekian-rv-1941",
-        "title": "Элибекян Р.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elibekian-rv-1941.jpg",
-        "description": [],
-        "birthDate": "1941",
-        "deathDate": null
-    },
-    {
-        "url": "elinson-ellinson-g-1935",
-        "title": "Элинсон (Эллинсон) Г. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elinson-ellinson-g-1935.jpg",
-        "description": [],
-        "birthDate": "1935",
-        "deathDate": null
-    },
-    {
-        "url": "elinson-gd-1935",
-        "title": "Элинсон Г.Д. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elinson-gd-1935.jpg",
-        "description": [],
-        "birthDate": "1935",
-        "deathDate": null
-    },
-    {
-        "url": "elisashvili-va-1922",
-        "title": "Элисашвили В.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elisashvili-va-1922.jpg",
-        "description": [],
-        "birthDate": "1922",
-        "deathDate": null
-    },
-    {
-        "url": "elksnite-sia-1929",
-        "title": "Элксните С.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elksnite-sia-1929.jpg",
-        "description": [],
-        "birthDate": "1929",
-        "deathDate": null
-    },
-    {
-        "url": "ellert-nl-1845",
-        "title": "Эллерт Н.Л. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ellert-nl-1845.jpg",
-        "description": [],
-        "birthDate": "1845",
-        "deathDate": null
-    },
-    {
-        "url": "ellin-an-1872",
-        "title": "Эллин А.Н. ?",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ellin-an-1872.jpg",
-        "description": [],
-        "birthDate": "1872",
-        "deathDate": null
-    },
-    {
-        "url": "ellinskii-go-1936",
-        "title": "Эллинский Г.О. -",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ellinskii-go-1936.jpg",
-        "description": [],
-        "birthDate": "1936",
-        "deathDate": null
-    },
-    {
-        "url": "ellonen-vv-1891",
-        "title": "Эллонен В.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ellonen-vv-1891.jpg",
-        "description": [],
-        "birthDate": "1891",
-        "deathDate": null
-    },
-    {
-        "url": "elmar-ai-1949",
-        "title": "Элмар А.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elmar-ai-1949.jpg",
-        "description": [],
-        "birthDate": "1949",
-        "deathDate": null
-    },
-    {
-        "url": "eloyan-sn-1958",
-        "title": "Элоян С.Н. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eloyan-sn-1958.jpg",
-        "description": [],
-        "birthDate": "1958",
-        "deathDate": null
-    },
-    {
-        "url": "elbert-vd-1927",
-        "title": "Эльберт В.Д. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elbert-vd-1927.jpg",
-        "description": [],
-        "birthDate": "1927",
-        "deathDate": null
-    },
-    {
-        "url": "el-gurt-ish-1924",
-        "title": "Эльгурт И.Ш. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-gurt-ish-1924.jpg",
-        "description": [],
-        "birthDate": "1924",
-        "deathDate": null
-    },
-    {
-        "url": "el-darov-og-1927",
-        "title": "Эльдаров О.Г. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-darov-og-1927.jpg",
-        "description": [],
-        "birthDate": "1927",
-        "deathDate": null
-    },
-    {
-        "url": "el-darova-in-1955",
-        "title": "Эльдарова И.Н. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-darova-in-1955.jpg",
-        "description": [],
-        "birthDate": "1955",
-        "deathDate": null
-    },
-    {
-        "url": "el-darova-nv-1951",
-        "title": "Эльдарова Н.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-darova-nv-1951.jpg",
-        "description": [],
-        "birthDate": "1951",
-        "deathDate": null
-    },
-    {
-        "url": "el-diev-ra-1951",
-        "title": "Эльдиев Р.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-diev-ra-1951.jpg",
-        "description": [],
-        "birthDate": "1951",
-        "deathDate": null
-    },
-    {
-        "url": "el-diev-re-1947",
-        "title": "Эльдиев Р.Э. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-diev-re-1947.jpg",
-        "description": [],
-        "birthDate": "1947",
-        "deathDate": null
-    },
-    {
-        "url": "elken-ial-1954",
-        "title": "Элькен Я.Л. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elken-ial-1954.jpg",
-        "description": [],
-        "birthDate": "1954",
-        "deathDate": null
-    },
-    {
-        "url": "elkin-lm-1924",
-        "title": "Элькин (Елькин) Л.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elkin-lm-1924.jpg",
-        "description": [],
-        "birthDate": "1924",
-        "deathDate": null
-    },
-    {
-        "url": "elkonin-vb-1910",
-        "title": "Эльконин В.Б. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elkonin-vb-1910.jpg",
-        "description": [],
-        "birthDate": "1910",
-        "deathDate": null
-    },
-    {
-        "url": "el-konina-mv-1935",
-        "title": "Эльконина М.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-konina-mv-1935.jpg",
-        "description": [],
-        "birthDate": "1935",
-        "deathDate": null
-    },
-    {
-        "url": "elkonina-mv-1935",
-        "title": "Эльконина М.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elkonina-mv-1935.jpg",
-        "description": [],
-        "birthDate": "1935",
-        "deathDate": null
-    },
-    {
-        "url": "elkonina-nm-1960",
-        "title": "Эльконина Н.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elkonina-nm-1960.jpg",
-        "description": [],
-        "birthDate": "1960",
-        "deathDate": null
-    },
-    {
-        "url": "el-konina-rozenberg-nm-1910",
-        "title": "Эльконина-Розенберг Н.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-konina-rozenberg-nm-1910.jpg",
-        "description": [],
-        "birthDate": "1910",
-        "deathDate": null
-    },
-    {
-        "url": "elmanovich-vm-1920",
-        "title": "Эльманович В.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elmanovich-vm-1920.jpg",
-        "description": [],
-        "birthDate": "1920",
-        "deathDate": null
-    },
-    {
-        "url": "el-met-kd-1940",
-        "title": "Эльмет К.Д. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-met-kd-1940.jpg",
-        "description": [],
-        "birthDate": "1940",
-        "deathDate": null
-    },
-    {
-        "url": "el-mirzaev-syu-1943",
-        "title": "Эльмирзаев С.Ю. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-mirzaev-syu-1943.jpg",
-        "description": [],
-        "birthDate": "1943",
-        "deathDate": null
-    },
-    {
-        "url": "el-skaya-nv-1947",
-        "title": "Эльская Н.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-skaya-nv-1947.jpg",
-        "description": [],
-        "birthDate": "1947",
-        "deathDate": null
-    },
-    {
-        "url": "el-ster-mb-1927",
-        "title": "Эльстер М.Б. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-ster-mb-1927.jpg",
-        "description": [],
-        "birthDate": "1927",
-        "deathDate": null
-    },
-    {
-        "url": "el-f-ss-1985",
-        "title": "Эльф С.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-f-ss-1985.jpg",
-        "description": [],
-        "birthDate": "1985",
-        "deathDate": null
-    },
-    {
-        "url": "elhones-mi-1911",
-        "title": "Эльхонес  М.И. -",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/elhones-mi-1911.jpg",
-        "description": [],
-        "birthDate": "1911",
-        "deathDate": null
-    },
-    {
-        "url": "el-cufen-mi-1913",
-        "title": "Эльцуфен М.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-cufen-mi-1913.jpg",
-        "description": [],
-        "birthDate": "1913",
-        "deathDate": null
-    },
-    {
-        "url": "emeretli-bratina-kv-1963",
-        "title": "Эмеретли (Братина) К.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/emeretli-bratina-kv-1963.jpg",
-        "description": [],
-        "birthDate": "1963",
-        "deathDate": null
-    },
-    {
-        "url": "eminov-ki-1928",
-        "title": "Эминов К.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eminov-ki-1928.jpg",
-        "description": [],
-        "birthDate": "1928",
-        "deathDate": null
-    },
-    {
-        "url": "eminov-rk-1950",
-        "title": "Эминов Р.К. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eminov-rk-1950.jpg",
-        "description": [],
-        "birthDate": "1950",
-        "deathDate": null
-    },
-    {
-        "url": "emirbekov-aa-1934",
-        "title": "Эмирбеков А.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/emirbekov-aa-1934.jpg",
-        "description": [],
-        "birthDate": "1934",
-        "deathDate": null
-    },
-    {
-        "url": "emkul-va-1919",
-        "title": "Эмкуль В.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/emkul-va-1919.jpg",
-        "description": [],
-        "birthDate": "1919",
-        "deathDate": null
-    },
-    {
-        "url": "emme-vv-1875",
-        "title": "Эмме В.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/emme-vv-1875.jpg",
-        "description": [],
-        "birthDate": "1875",
-        "deathDate": null
-    },
-    {
-        "url": "emme-lo-1898",
-        "title": "Эмме Л.О. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/emme-lo-1898.jpg",
-        "description": [],
-        "birthDate": "1898",
-        "deathDate": null
-    },
-    {
-        "url": "engel-s-ov-1880",
-        "title": "Энгельс О.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/engel-s-ov-1880.jpg",
-        "description": [],
-        "birthDate": "1880",
-        "deathDate": null
-    },
-    {
-        "url": "engels-ov-1880",
-        "title": "Энгельс О.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/engels-ov-1880.jpg",
-        "description": [],
-        "birthDate": "1880",
-        "deathDate": null
-    },
-    {
-        "url": "ender-ag-1926-28",
-        "title": "Эндер А.Г. (28)",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-ag-1926-28.jpg",
-        "description": [],
-        "birthDate": "1926",
-        "deathDate": null
-    },
-    {
-        "url": "ender-bv-1893",
-        "title": "Эндер Б.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-bv-1893.jpg",
-        "description": [],
-        "birthDate": "1893",
-        "deathDate": null
-    },
-    {
-        "url": "ender-gv-1898",
-        "title": "Эндер Г.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-gv-1898.jpg",
-        "description": [],
-        "birthDate": "1898",
-        "deathDate": null
-    },
-    {
-        "url": "ender-kv-1894",
-        "title": "Эндер К.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-kv-1894.jpg",
-        "description": [],
-        "birthDate": "1894",
-        "deathDate": null
-    },
-    {
-        "url": "ender-mv-1897",
-        "title": "Эндер М.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-mv-1897.jpg",
-        "description": [],
-        "birthDate": "1897",
-        "deathDate": null
-    },
-    {
-        "url": "ender-iuv-1888",
-        "title": "Эндер Ю.В. ?",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-iuv-1888.jpg",
-        "description": [],
-        "birthDate": "1888",
-        "deathDate": null
-    },
-    {
-        "url": "endzhelin-endzelin-lia-1927",
-        "title": "Энджелин (Эндзелин) Л.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/endzhelin-endzelin-lia-1927.jpg",
-        "description": [],
-        "birthDate": "1927",
-        "deathDate": null
-    },
-    {
-        "url": "endzelina-lya-1927",
-        "title": "Эндзелина Л.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/endzelina-lya-1927.jpg",
-        "description": [],
-        "birthDate": "1927",
-        "deathDate": null
-    },
-    {
-        "url": "endovitskii-s",
-        "title": "Эндовицкий С.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/endovitskii-s.jpg",
-        "description": [],
-        "deathDate": null
-    },
-    {
-        "url": "endourova-mn-1974",
-        "title": "Эндоурова М.Н. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/endourova-mn-1974.jpg",
-        "description": [],
-        "birthDate": "1974",
-        "deathDate": null
-    },
-    {
-        "url": "endrikson-em-1907",
-        "title": "Эндриксон Е.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/endrikson-em-1907.jpg",
-        "description": [],
-        "birthDate": "1907",
-        "deathDate": null
-    },
-    {
-        "url": "enkel-mk-1870",
-        "title": "Энкель М.К. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/enkel-mk-1870.jpg",
-        "description": [],
-        "birthDate": "1870",
-        "deathDate": null
-    },
-    {
-        "url": "enkenberg-m-1797",
-        "title": "Энкенберг М.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/enkenberg-m-1797.jpg",
-        "description": [],
-        "birthDate": "1797",
-        "deathDate": null
-    },
-    {
-        "url": "enkenberg-e",
-        "title": "Энкенберг Э.?",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/enkenberg-e.jpg",
-        "description": [],
-        "deathDate": null
-    },
-    {
-        "url": "enno-na-1873",
-        "title": "Энно Н.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/enno-na-1873.jpg",
-        "description": [],
-        "birthDate": "1873",
-        "deathDate": null
-    },
-    {
-        "url": "ennosaar-lr-1920",
-        "title": "Энносаар Л.Р. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ennosaar-lr-1920.jpg",
-        "description": [],
-        "birthDate": "1920",
-        "deathDate": null
-    },
-    {
-        "url": "entelis-ns-1956",
-        "title": "Энтелис Н.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/entelis-ns-1956.jpg",
-        "description": [],
-        "birthDate": "1956",
-        "deathDate": null
-    },
-    {
-        "url": "entina-ii-1957",
-        "title": "Энтина И.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/entina-ii-1957.jpg",
-        "description": [],
-        "birthDate": "1957",
-        "deathDate": null
-    },
-    {
-        "url": "epelbaum-gm-1939",
-        "title": "Эпельбаум Г.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epelbaum-gm-1939.jpg",
-        "description": [],
-        "birthDate": "1939",
-        "deathDate": null
-    },
-    {
-        "url": "epel-baum-nm-1927",
-        "title": "Эпельбаум Н.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epel-baum-nm-1927.jpg",
-        "description": [],
-        "birthDate": "1927",
-        "deathDate": null
-    },
-    {
-        "url": "epel-baum-marchenko-bp-1927",
-        "title": "Эпельбаум-Марченко Б.П. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epel-baum-marchenko-bp-1927.jpg",
-        "description": [],
-        "birthDate": "1927",
-        "deathDate": null
-    },
-    {
-        "url": "epov-nn-1931",
-        "title": "Эпов Н.Н. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epov-nn-1931.jpg",
-        "description": [],
-        "birthDate": "1931",
-        "deathDate": null
-    },
-    {
-        "url": "epple-ls-1959",
-        "title": "Эппле Л.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epple-ls-1959.jpg",
-        "description": [],
-        "birthDate": "1959",
-        "deathDate": null
-    },
-    {
-        "url": "epshteyn-hefter-ei-1879",
-        "title": "Эпштейн (Хефтер) Е.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshteyn-hefter-ei-1879.jpg",
-        "description": [],
-        "birthDate": "1879",
-        "deathDate": null
-    },
-    {
-        "url": "epshteyn-a-1891-92",
-        "title": "Эпштейн А.(92)",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshteyn-a-1891-92.jpg",
-        "description": [],
-        "birthDate": "1891",
-        "deathDate": null
-    },
-    {
-        "url": "epshteyn-ga-1928",
-        "title": "Эпштейн Г.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshteyn-ga-1928.jpg",
-        "description": [],
-        "birthDate": "1928",
-        "deathDate": null
-    },
-    {
-        "url": "epshteyn-i-1956",
-        "title": "Эпштейн И.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshteyn-i-1956.jpg",
-        "description": [],
-        "birthDate": "1956",
-        "deathDate": null
-    },
-    {
-        "url": "epshteyn-mi-1899",
-        "title": "Эпштейн М.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshteyn-mi-1899.jpg",
-        "description": [],
-        "birthDate": "1899",
-        "deathDate": null
-    },
-    {
-        "url": "epshtein-sb-1925",
-        "title": "Эпштейн С.Б. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshtein-sb-1925.jpg",
-        "description": [],
-        "birthDate": "1925",
-        "deathDate": null
-    },
-    {
-        "url": "erassi-ms-1823",
-        "title": "Эрасси М.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erassi-ms-1823.jpg",
-        "description": [],
-        "birthDate": "1823",
-        "deathDate": null
-    },
-    {
-        "url": "erbshteyn-bm-1901",
-        "title": "Эрбштейн Б.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erbshteyn-bm-1901.jpg",
-        "description": [],
-        "birthDate": "1901",
-        "deathDate": null
-    },
-    {
-        "url": "ergashev-a-1968",
-        "title": "Эргашев А.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ergashev-a-1968.jpg",
-        "description": [],
-        "birthDate": "1968",
-        "deathDate": null
-    },
-    {
-        "url": "ergashev-mh-1959",
-        "title": "Эргашев М.Х. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ergashev-mh-1959.jpg",
-        "description": [],
-        "birthDate": "1959",
-        "deathDate": null
-    },
-    {
-        "url": "erdeli-amgb-1891",
-        "title": "Эрдели А.М.(Г.Б.) ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdeli-amgb-1891.jpg",
-        "description": [],
-        "birthDate": "1891",
-        "deathDate": null
-    },
-    {
-        "url": "erdeli-im-1902",
-        "title": "Эрдели И.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdeli-im-1902.jpg",
-        "description": [],
-        "birthDate": "1902",
-        "deathDate": null
-    },
-    {
-        "url": "erdman-br-1899",
-        "title": "Эрдман Б.Р. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdman-br-1899.jpg",
-        "description": [],
-        "birthDate": "1899",
-        "deathDate": null
-    },
-    {
-        "url": "erdni-araeva-yu-1976",
-        "title": "Эрдни-Араева Ю.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdni-araeva-yu-1976.jpg",
-        "description": [],
-        "birthDate": "1976",
-        "deathDate": null
-    },
-    {
-        "url": "erdyneev-ac-1949",
-        "title": "Эрдынеев А.Ц. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-ac-1949.jpg",
-        "description": [],
-        "birthDate": "1949",
-        "deathDate": null
-    },
-    {
-        "url": "erdyneev-dn-1953",
-        "title": "Эрдынеев Д.Н. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-dn-1953.jpg",
-        "description": [],
-        "birthDate": "1953",
-        "deathDate": null
-    },
-    {
-        "url": "erdyneev-zhm-1966",
-        "title": "Эрдынеев Ж.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-zhm-1966.jpg",
-        "description": [],
-        "birthDate": "1966",
-        "deathDate": null
-    },
-    {
-        "url": "erdyneev-zhn-1951",
-        "title": "Эрдынеев Ж.Н. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-zhn-1951.jpg",
-        "description": [],
-        "birthDate": "1951",
-        "deathDate": null
-    },
-    {
-        "url": "erdyneev-mb-1936",
-        "title": "Эрдынеев М.Б. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-mb-1936.jpg",
-        "description": [],
-        "birthDate": "1936",
-        "deathDate": null
-    },
-    {
-        "url": "erdyneev-yuch-1965",
-        "title": "Эрдынеев Ю.Ч. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-yuch-1965.jpg",
-        "description": [],
-        "birthDate": "1965",
-        "deathDate": null
-    },
-    {
-        "url": "erdeniyn-erdyneev-ge-1884",
-        "title": "Эрдэнийн (Эрдынеев) Г.Э. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdeniyn-erdyneev-ge-1884.jpg",
-        "description": [],
-        "birthDate": "1884",
-        "deathDate": null
-    },
-    {
-        "url": "ereshov-sm-1957",
-        "title": "Эрешов С.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ereshov-sm-1957.jpg",
-        "description": [],
-        "birthDate": "1957",
-        "deathDate": null
-    },
-    {
-        "url": "erivani-mk-1825",
-        "title": "Эривани М.К. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erivani-mk-1825.jpg",
-        "description": [],
-        "birthDate": "1825",
-        "deathDate": null
-    },
-    {
-        "url": "eristavi-dv-1931",
-        "title": "Эристави Д.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eristavi-dv-1931.jpg",
-        "description": [],
-        "birthDate": "1931",
-        "deathDate": null
-    },
-    {
-        "url": "eristova-etlinger-mv-1857",
-        "title": "Эристова (Этлингер) М.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eristova-etlinger-mv-1857.jpg",
-        "description": [],
-        "birthDate": "1857",
-        "deathDate": null
-    },
-    {
-        "url": "eristova-mv-1857",
-        "title": "Эристова М.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eristova-mv-1857.jpg",
-        "description": [],
-        "birthDate": "1857",
-        "deathDate": null
-    },
-    {
-        "url": "erihson-zaharova-nya-1862",
-        "title": "Эрихсон (Захарова) Н.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erihson-zaharova-nya-1862.jpg",
-        "description": [],
-        "birthDate": "1862",
-        "deathDate": null
-    },
-    {
-        "url": "erihson-erikson-lr-1895",
-        "title": "Эрихсон (Эриксон) Л.Р. ?",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erihson-erikson-lr-1895.jpg",
-        "description": [],
-        "birthDate": "1895",
-        "deathDate": null
-    },
-    {
-        "url": "erihson-nia-1862",
-        "title": "Эрихсон Н.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erihson-nia-1862.jpg",
-        "description": [],
-        "birthDate": "1862",
-        "deathDate": null
-    },
-    {
-        "url": "erkenov-vi-1941",
-        "title": "Эркенов В.И. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erkenov-vi-1941.jpg",
-        "description": [],
-        "birthDate": "1941",
-        "deathDate": null
-    },
-    {
-        "url": "erkenov-ih-1954",
-        "title": "Эркенов И.Х. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erkenov-ih-1954.jpg",
-        "description": [],
-        "birthDate": "1954",
-        "deathDate": null
-    },
-    {
-        "url": "erkenova-ov-1961",
-        "title": "Эркенова О.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erkenova-ov-1961.jpg",
-        "description": [],
-        "birthDate": "1961",
-        "deathDate": null
-    },
-    {
-        "url": "erler-ln-1932",
-        "title": "Эрлер Л.Н. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erler-ln-1932.jpg",
-        "description": [],
-        "birthDate": "1932",
-        "deathDate": null
-    },
-    {
-        "url": "erlih-vi1924",
-        "title": "Эрлих В.И.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erlih-vi1924.jpg",
-        "description": [],
-        "birthDate": "1924",
-        "deathDate": null
-    },
-    {
-        "url": "erman-ls-1909",
-        "title": "Эрман Л.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erman-ls-1909.jpg",
-        "description": [],
-        "birthDate": "1909",
-        "deathDate": null
-    },
-    {
-        "url": "erte-tyrtov-rp-1892",
-        "title": "Эрте (Тыртов) Р.П. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erte-tyrtov-rp-1892.jpg",
-        "description": [],
-        "birthDate": "1892",
-        "deathDate": null
-    },
-    {
-        "url": "ertevtsian-shk-1922",
-        "title": "Эртевцян Ш.К. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ertevtsian-shk-1922.jpg",
-        "description": [],
-        "birthDate": "1922",
-        "deathDate": null
-    },
-    {
-        "url": "ertel-ld-1866",
-        "title": "Эртель Л.Д. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ertel-ld-1866.jpg",
-        "description": [],
-        "birthDate": "1866",
-        "deathDate": null
-    },
-    {
-        "url": "ertuganov-shs-1932",
-        "title": "Эртуганов Ш.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ertuganov-shs-1932.jpg",
-        "description": [],
-        "birthDate": "1932",
-        "deathDate": null
-    },
-    {
-        "url": "erzia-nefedov-sd-1975",
-        "title": "Эрьзя (Нефедов) С.Д. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/erzia-nefedov-sd-1975.jpg",
-        "description": [],
-        "birthDate": "1975",
-        "deathDate": null
-    },
-    {
-        "url": "esanov-tya-1953",
-        "title": "Эсанов Т.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/esanov-tya-1953.jpg",
-        "description": [],
-        "birthDate": "1953",
-        "deathDate": null
-    },
-    {
-        "url": "esengel-dyev-b-1942",
-        "title": "Эсенгельдыев Б.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/esengel-dyev-b-1942.jpg",
-        "description": [],
-        "birthDate": "1942",
-        "deathDate": null
-    },
-    {
-        "url": "esipov-v-1917",
-        "title": "Эсипов В.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/esipov-v-1917.jpg",
-        "description": [],
-        "birthDate": "1917",
-        "deathDate": null
-    },
-    {
-        "url": "eskaraeva-lk-1948",
-        "title": "Эскараева Л.К. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eskaraeva-lk-1948.jpg",
-        "description": [],
-        "birthDate": "1948",
-        "deathDate": null
-    },
-    {
-        "url": "eskel-yur-1927",
-        "title": "Эскел Ю.Р. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eskel-yur-1927.jpg",
-        "description": [],
-        "birthDate": "1927",
-        "deathDate": null
-    },
-    {
-        "url": "eskel-a-1922",
-        "title": "Эскель А.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eskel-a-1922.jpg",
-        "description": [],
-        "birthDate": "1922",
-        "deathDate": null
-    },
-    {
-        "url": "eskin-ss-1890",
-        "title": "Эскин С.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eskin-ss-1890.jpg",
-        "description": [],
-        "birthDate": "1890",
-        "deathDate": null
-    },
-    {
-        "url": "esmont-av-1950",
-        "title": "Эсмонт А.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/esmont-av-1950.jpg",
-        "description": [],
-        "birthDate": "1950",
-        "deathDate": null
-    },
-    {
-        "url": "esmont-ms-1937",
-        "title": "Эсмонт М.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/esmont-ms-1937.jpg",
-        "description": [],
-        "birthDate": "1937",
-        "deathDate": null
-    },
-    {
-        "url": "esmurziev-za-1950",
-        "title": "Эсмурзиев З.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/esmurziev-za-1950.jpg",
-        "description": [],
-        "birthDate": "1950",
-        "deathDate": null
-    },
-    {
-        "url": "espe-nia-1907",
-        "title": "Эспе Н.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/espe-nia-1907.jpg",
-        "description": [],
-        "birthDate": "1907",
-        "deathDate": null
-    },
-    {
-        "url": "essen-bn-1893",
-        "title": "Эссен Б.Н. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/essen-bn-1893.jpg",
-        "description": [],
-        "birthDate": "1893",
-        "deathDate": null
-    },
-    {
-        "url": "essen-ee-1879",
-        "title": "Эссен Э.Э. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/essen-ee-1879.jpg",
-        "description": [],
-        "birthDate": "1879",
-        "deathDate": null
-    },
-    {
-        "url": "estis-ga-1963",
-        "title": "Эстис Г.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/estis-ga-1963.jpg",
-        "description": [],
-        "birthDate": "1963",
-        "deathDate": null
-    },
-    {
-        "url": "estis-na-1937",
-        "title": "Эстис Н.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/estis-na-1937.jpg",
-        "description": [],
-        "birthDate": "1937",
-        "deathDate": null
-    },
-    {
-        "url": "estis-on-1964",
-        "title": "Эстис О.Н. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/estis-on-1964.jpg",
-        "description": [],
-        "birthDate": "1964",
-        "deathDate": null
-    },
-    {
-        "url": "etenko-lf-1949",
-        "title": "Этенко Л.Ф. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/etenko-lf-1949.jpg",
-        "description": [],
-        "birthDate": "1949",
-        "deathDate": null
-    },
-    {
-        "url": "etinger-vg-1917",
-        "title": "Этингер В.Г. ?",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/etinger-vg-1917.jpg",
-        "description": [],
-        "birthDate": "1917",
-        "deathDate": null
-    },
-    {
-        "url": "ettingen-ef-1885-01",
-        "title": "Эттинген Е.Ф. (01",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ettingen-ef-1885-01.jpg",
-        "description": [],
-        "birthDate": "1885",
-        "deathDate": null
-    },
-    {
-        "url": "efendi-effendi-mm-1896",
-        "title": "Эфенди (Эффенди) М.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/efendi-effendi-mm-1896.jpg",
-        "description": [],
-        "birthDate": "1896",
-        "deathDate": null
-    },
-    {
-        "url": "efendiev-km-1927",
-        "title": "Эфендиев К.М. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/efendiev-km-1927.jpg",
-        "description": [],
-        "birthDate": "1927",
-        "deathDate": null
-    },
-    {
-        "url": "efendiev-ks-1927",
-        "title": "Эфендиев К.С. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/efendiev-ks-1927.jpg",
-        "description": [],
-        "birthDate": "1927",
-        "deathDate": null
-    },
-    {
-        "url": "efendiev-eb-1946",
-        "title": "Эфендиев Э.Б. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/efendiev-eb-1946.jpg",
-        "description": [],
-        "birthDate": "1946",
-        "deathDate": null
-    },
-    {
-        "url": "efroimson-iia-1913",
-        "title": "Эфроймсон (Эфроимсон) И.Я. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/efroimson-iia-1913.jpg",
-        "description": [],
-        "birthDate": "1913",
-        "deathDate": null
-    },
-    {
-        "url": "efros-gg-1902",
-        "title": "Эфрос Г.Г. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/efros-gg-1902.jpg",
-        "description": [],
-        "birthDate": "1902",
-        "deathDate": null
-    },
-    {
-        "url": "efros-l-1949",
-        "title": "Эфрос Л.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/efros-l-1949.jpg",
-        "description": [],
-        "birthDate": "1949",
-        "deathDate": null
-    },
-    {
-        "url": "ehelayd-o-1913",
-        "title": "Эхелайд О.",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/ehelayd-o-1913.jpg",
-        "description": [],
-        "birthDate": "1913",
-        "deathDate": null
-    },
-    {
-        "url": "eshba-me-1924",
-        "title": "Эшба М.Е. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eshba-me-1924.jpg",
-        "description": [],
-        "birthDate": "1924",
-        "deathDate": null
-    },
-    {
-        "url": "eshkichevich-vk-1875",
-        "title": "Эшкичевич В.К. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eshkichevich-vk-1875.jpg",
-        "description": [],
-        "birthDate": "1875",
-        "deathDate": null
-    },
-    {
-        "url": "eel-ma-hv-1934",
-        "title": "Ээльма Х.В. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eel-ma-hv-1934.jpg",
-        "description": [],
-        "birthDate": "1934",
-        "deathDate": null
-    },
-    {
-        "url": "eel-ma-ya-1934",
-        "title": "Ээльма Ы.А. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eel-ma-ya-1934.jpg",
-        "description": [],
-        "birthDate": "1934",
-        "deathDate": null
-    },
-    {
-        "url": "eyubov-db-1943",
-        "title": "Эюбов Д.Б. ",
-        "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyubov-db-1943.jpg",
-        "description": [],
-        "birthDate": "1943",
-        "deathDate": null
-    }
+  {
+    "url": "ebanoidze-shp-1921",
+    "title": "Эбаноидзе Ш.П. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ebanoidze-shp-1921.jpg",
+    "description": [
+      "Грузинский художник Эбаноидзе Шота Платонович",
+      "Родился в 1921.",
+      "Жил и работал в Тбилиси, Грузия."
+    ],
+    "birthDate": "1921",
+    "deathDate": null
+  },
+  {
+    "url": "eberling-ar-1871",
+    "title": "Эберлинг А.Р. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eberling-ar-1871.jpg",
+    "description": [
+      "Ленинградский художник Эберлинг Альфред (Вильгельм-Альфред) Рудольфович (Генрихович)",
+      "Родился недалеко от г. Лодзь, Польша, в 1871(72?).",
+      "Учился у Ленбаха в Мюнхене; в Италии. Закончил: «Императорская Академия искусств» 1889-99.",
+      "Выставлялся вместе с «АХРР» 1926; «Общество Репина». Важные выставки: «Индустрия социализма», Москва, 1939.",
+      "Член «Общество Куинджи» 1909-20 (сооснователь).",
+      "Преподавал: «Императорская Академия искусств»; Художественная школа в «Общество поощрения художеств» в середине 1920-х годов.",
+      "Жил и работал в Санкт-Петербурге / Петрограде / Ленинграде (Алтайский край в 1942-44).",
+      "Умер в 1951(50?)."
+    ],
+    "birthDate": "1871",
+    "deathDate": null
+  },
+  {
+    "url": "eberling-ar-1872",
+    "title": "Эберлинг А.Р. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eberling-ar-1872.jpg",
+    "description": [
+      "Императорский художник Эберлинг Альфред Рудольфович",
+      "Родился 3 января 1872 года.",
+      "Художник - живописец.",
+      "Умер 18 января 1951 года."
+    ],
+    "birthDate": "1872",
+    "deathDate": null
+  },
+  {
+    "url": "eberman-mv-1885",
+    "title": "Эберман М.В. ?",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eberman-mv-1885.jpg",
+    "description": [
+      "Московский художник Эберман Максимилиан Владимирович",
+      "Родился в 1885?",
+      "Важные выставки: «Венок», Санкт-Петербург, 1908; «Первый Издебский салон» 1909-10.",
+      "Жил и работал в Москве в 1900-30-х годах."
+    ],
+    "birthDate": "1885",
+    "deathDate": null
+  },
+  {
+    "url": "ebers-bm-1889",
+    "title": "Эберс (Еберс)  Б.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ebers-bm-1889.jpg",
+    "description": [
+      "Одесский художник Эберс Борис Мойсейович",
+      "Родился 15 августа 1889 года, в городе Одесса.",
+      "Закончил Одесское художественное училище (1911), учился в Петербуржской Академии искусств (1911—1914).",
+      "Учителя по специальности – К. Костанди, Г. Ладиженский, И. Творожников.",
+      "Работал в отрасли станковой живописи.",
+      "Участвовал в выставках: областных (с 1933), республиканских (с 1937).",
+      "Основные произведения: «Портрет женщины в голубом» (1935); «Улица в Одессе» (1937); «Угольная гавань» (1948); «У причала» (1949); «Оттепель» (1954) и другие.",
+      "Жил и работал в городе Одесса. Умер в 1971 года."
+    ],
+    "birthDate": "1889",
+    "deathDate": null
+  },
+  {
+    "url": "eborovich-es-1888",
+    "title": "Эборович Е.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eborovich-es-1888.jpg",
+    "description": [
+      "Ленинградский художник Эборович Елена Семеновна",
+      "Родился в 1888.",
+      "Закончил: «Императорская Академия искусств» 1907-13."
+    ],
+    "birthDate": "1888",
+    "deathDate": null
+  },
+  {
+    "url": "evenbah-ek-1889",
+    "title": "Эвенбах Е.К. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/evenbah-ek-1889.jpg",
+    "description": [
+      "Ленинградский художник Эвенбах Евгения Константиновна",
+      "Родился 1889 года, в городе Кременчуг, Полтавская область.",
+      "Закончил Художественную школу в Обществе поощрения художеств (1909—1910); Ленинградскую Академию искусств (1918—1923); Ленинградский университет (1920—1925).",
+      "Учителя по специальности: К. С. Петрова-Водкина.",
+      "Живописец, график.",
+      "Преподавал в Ленинградском педагогическом институте (1946—1952).",
+      "Участвовал в выставках не позже, чем с 1921 года.",
+      "Жил и работал в Петрограде / Ленинграде (находился в ссылке в Алтае в 1943—1946). Умер в Ленинграде в 1981 году."
+    ],
+    "birthDate": "1889",
+    "deathDate": null
+  },
+  {
+    "url": "evenbah-sm-1870",
+    "title": "Эвенбах С.М. -",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/evenbah-sm-1870.jpg",
+    "description": [
+      "Киевский художник Эвенбах Семен Маркович",
+      "Родился 8 (20?) апреля 1870 года, в городе Харьков.",
+      "Окончил  Харьковскую, впоследствии Одесскую рисовальную школы.",
+      "Художник театра. Выдающийся мастер - реалист в сценографии, художник вместе с тем создавал сценически - живописные полотна, насыщенные романтическими образами. Колорит сценических пейзажей богат тонкие нюансы и оттенки красок, которые в зрительной партитуре спектакля создавали адекватный музыке настроение и психологическое состояние. Художник значительно расширил арсенал выразительных средств оперно - балетной сценографии. Он был своеобразных предтечей изобразительной режиссуры в украинской сценографии 1920—1930-х годах.",
+      "Работал художником - декораторам Харьковской оперы (1889—1900); художником - постановщиком Киевской оперы (1901—1916); в Киевском театре оперы и балета (1921—1937).",
+      "Основные произведения: оформил спектакли — «Сказка о царе Салтане» (1908), «Садко» (1909), «Валькирия» (1909), «Мадам Баттерфляй» (1912), «Дубровский» (1921), «Фауст» (1923), «Аида», «Золотой петушок» (1926), «Орлиный бунт», «Лебединое озеро» (1927), «Трильби» (1928), «Красный мак», «Севильский цирюльник», «Мадам Баттерфляй» (1934), «Наталка Полтавка» (1935), «Конек-Горбунок» (1936).",
+      "Эскизы декораций к спектаклям хранятся в МТМК Украины.",
+      "Жил и работал в городе Киев, умер 31 января 1937 года."
+    ],
+    "birthDate": "1870",
+    "deathDate": null
+  },
+  {
+    "url": "everling-na-1962",
+    "title": "Эверлинг Н.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/everling-na-1962.jpg",
+    "description": [
+      "Советский художник Эверлинг Надежда Альфредовна",
+      "Родился 2 ноября 1962 года.",
+      "Художник - живописец.",
+      "Умер 28 ноября 2014 года."
+    ],
+    "birthDate": "1962",
+    "deathDate": null
+  },
+  {
+    "url": "evert-nv-1947",
+    "title": "Эверт Н.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/evert-nv-1947.jpg",
+    "description": [
+      "Советский художник Эверт Наталья Владимировна",
+      "Родился 24 июля 1947 года.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1947",
+    "deathDate": null
+  },
+  {
+    "url": "evoyan-g-1957",
+    "title": "Эвоян Г.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/evoyan-g-1957.jpg",
+    "description": [
+      "Советский художник Эвоян Грач",
+      "Родился в 1957 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1957",
+    "deathDate": null
+  },
+  {
+    "url": "egiz-bi-1869",
+    "title": "Эгиз Б.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/egiz-bi-1869.jpg",
+    "description": [
+      "Ленинградский художник Эгиз Борис Исаакович",
+      "Родился в 1869.",
+      "Закончил: «Императорская Академия искусств»1890-94.",
+      "Участвовал в выставках: «Товарищество южнорусских художников»."
+    ],
+    "birthDate": "1869",
+    "deathDate": null
+  },
+  {
+    "url": "egle-ai-1905",
+    "title": "Эгле А.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/egle-ai-1905.jpg",
+    "description": [
+      "Латвийский художник Эгле Арвид Индрикович",
+      "Родился в 1905.",
+      "Важные выставки: «Всесоюзная художественная выставка», Москва, 1946; «Всесоюзная художественная выставка», Москва, 1947; «Всесоюзная художественная выставка», Москва, 1949.",
+      "Жил и работал в Риге, Латвия.",
+      "Умер в 1980."
+    ],
+    "birthDate": "1905",
+    "deathDate": null
+  },
+  {
+    "url": "eglit-af-1907",
+    "title": "Эглит А.Ф. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eglit-af-1907.jpg",
+    "description": [
+      "Советский художник Эглит Артур Федорович",
+      "Родился 30 августа 1907 года.",
+      "Художник - живописец.",
+      "Умер в 1996 году."
+    ],
+    "birthDate": "1907",
+    "deathDate": null
+  },
+  {
+    "url": "eglite-la-1945",
+    "title": "Эглите Л.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eglite-la-1945.jpg",
+    "description": [
+      "Латвийский художник Эглите Лайма Альфонсовна",
+      "Родился в 1945.",
+      "Жил и работал в Риге, Латвия."
+    ],
+    "birthDate": "1945",
+    "deathDate": null
+  },
+  {
+    "url": "eglitis-via-1938",
+    "title": "Эглитис В.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eglitis-via-1938.jpg",
+    "description": [
+      "Латвийский художник Эглитис Вилнис Янович",
+      "Родился в 1938.",
+      "Жил и работал в Риге, Латвия."
+    ],
+    "birthDate": "1938",
+    "deathDate": null
+  },
+  {
+    "url": "edel-man-gs-1938",
+    "title": "Эдельман Г.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/edel-man-gs-1938.jpg",
+    "description": [
+      "Советский художник Эдельман Галина Самсоновна",
+      "Родился в 1938 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1938",
+    "deathDate": null
+  },
+  {
+    "url": "edel-man-iya-1946",
+    "title": "Эдельман И.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/edel-man-iya-1946.jpg",
+    "description": [
+      "Советский художник Эдельман Ирина Яковлевна",
+      "Родился в 1946 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1946",
+    "deathDate": null
+  },
+  {
+    "url": "edelfelt-aa-1854",
+    "title": "Эдельфельт А.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/edelfelt-aa-1854.jpg",
+    "description": [
+      "Ленинградский художник Эдельфельт Альберт Альбертович",
+      "Родился в 1854.",
+      "Был активным членом «Академия искусств» в 1895.",
+      "Стал академиком в 1881.",
+      "Умер в 1905."
+    ],
+    "birthDate": "1854",
+    "deathDate": null
+  },
+  {
+    "url": "edel-fel-t-ag-1854",
+    "title": "Эдельфельт А.Г. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/edel-fel-t-ag-1854.jpg",
+    "description": [
+      "Императорский художник Эдельфельт Альберт Густав (Альберт Альбертович)",
+      "Родился 21 июля 1854 года.",
+      "Художник - живописец.",
+      "Умер 18 июля 1905 года."
+    ],
+    "birthDate": "1854",
+    "deathDate": null
+  },
+  {
+    "url": "edelshtein-kv-1909",
+    "title": "Эдельштейн К.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/edelshtein-kv-1909.jpg",
+    "description": [
+      "Московский художник Эдельштейн Константин Витальевич",
+      "Родился в 1909(10?).",
+      "Закончил: «Ленинградский высший художественно-технический институт» 192730.",
+      "Живописец и скульптор.",
+      "Участвовал в выставках с 1934.",
+      "Член общества «Четыре искусства».",
+      "Жил и работал в Москве.",
+      "Умер 28 августа 1977 года."
+    ],
+    "birthDate": "1909",
+    "deathDate": null
+  },
+  {
+    "url": "edzgveradze-g-1952",
+    "title": "Эдзгверадзе Г. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/edzgveradze-g-1952.jpg",
+    "description": [
+      "Грузинский художник Эдзгверадзе Гия (Георгий)",
+      "Родился в Тбилиси, Грузия, в 1952/53?",
+      "Член группы «Художники-нонконформисты».",
+      "Жил и работал в Тбилиси."
+    ],
+    "birthDate": "1952",
+    "deathDate": null
+  },
+  {
+    "url": "eduards-bv-1860",
+    "title": "Эдуардс Б.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eduards-bv-1860.jpg",
+    "description": [
+      "Одесский художник Эдуардс Борис Вильямович",
+      "Родился 15 (27?) мая 1860 года, в городе Одесса.",
+      "Учился в Одесской ровальной школе (1876—1981); Санкт-Петербургской академии искусств (1881—1883; с 1915 — ее академик); В Парижской академии искусств Р. Жюльена (1887).",
+      "Учителя по специальности: Л. Иорини, А. Мерсье, М. Антокольского.",
+      "Скульптор и педагог. Автор жанровых композиций, портретов, памятников. Использовал гипс, терракота, мрамор, бронзу. Отличительная черта пластического выполнение художника — тщательное моделирование форм в соответствии с академических канонов в сочетании с измельченной детализацией скульптуры. Бюст «Шурка» (1890) разошлось в численых копиях, показав способность, художник к острохарактерных детских образов; выразительный в своей магии неповторимости портрет мальчика стал этап в активе художника.",
+      "Работал на литературном заводе в Париже (1889—1890). В Одессе открыл первый на Южной России бронзоливарный завод. Один из основателей товарищеста южнорусских художников в Одессе (1890); директор Одесского художественного училища (с 1918). Среди учеников — Ю. Белостоцький, К. Гвозданович, А. Гриншпунг, В. Климов.",
+      "Участвовал в выставках. Персональные выставки — в Одессе (1885, 1887, 1899, 1918, посмертная — 1993), Лондоне (1887). Организовал передвижную выставку произведений членства товарищества в Симферополе (1891), Екатеринославе (ныне Днепропетровск), в Одессе (1892).",
+      "Основные произведения: «Екатерина» (1886), «Жизнь невеселое» (1887—1899), «Утешение» (1890-е годы); бюста — А. Есипов, Н. Кондакова, Г. Судковского, Л. Пастера, жены (1886—1887), И. Бунина (1901); памятники — В. Григоровичу (1892), Екатерина II (1898); Н. Гоголю (1909), А. Пушкину (1904); фигура — А. Суворова (1907) и конная статуя на месте победы А. Суворова (1913; 1951), памятник восстановлен (1913; 1954). Создал проект художественного павильона Одесского фабрично - заводного, художественно - промышленных и сельскохозяйственных выставок (1910).",
+      "Произведения хранятся в Одесском художественном музее и Николаевском художественном музее, ГРМ (Санкт-Петербург).",
+      "Жил и работал в городе Одесса. Умер 12 февраля 1924 года, на острове Мальта."
+    ],
+    "birthDate": "1860",
+    "deathDate": null
+  },
+  {
+    "url": "ezdekov-vh-1940",
+    "title": "Эздеков В.Х. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ezdekov-vh-1940.jpg",
+    "description": [
+      "Советский художник Эздеков Владимир Хасетович",
+      "Родился 6 января 1940 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1940",
+    "deathDate": null
+  },
+  {
+    "url": "ezergayle-dya-1926",
+    "title": "Эзергайле Д.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ezergayle-dya-1926.jpg",
+    "description": [
+      "Советский художник Эзергайле Дзидра Яновна",
+      "Родился 11 апреля 1926 года.",
+      "Художник - живописец.",
+      "Умер в 2013 году."
+    ],
+    "birthDate": "1926",
+    "deathDate": null
+  },
+  {
+    "url": "ezerniek-gia-1932",
+    "title": "Эзерниек Г.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ezerniek-gia-1932.jpg",
+    "description": [
+      "Латвийский художник Эзерниек Гунар Янович",
+      "Родился в 1932.",
+      "Жил и работал в г. Елгава, Латвия."
+    ],
+    "birthDate": "1932",
+    "deathDate": null
+  },
+  {
+    "url": "eybish-e-1896",
+    "title": "Эйбиш Е.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eybish-e-1896.jpg",
+    "description": [
+      "Советский художник Эйбиш Евгений",
+      "Родился в 1896 году.",
+      "Художник - живописец.",
+      "Умер в 1987 году."
+    ],
+    "birthDate": "1896",
+    "deathDate": null
+  },
+  {
+    "url": "eybushic-yus-1907",
+    "title": "Эйбушиц Ю.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eybushic-yus-1907.jpg",
+    "description": [
+      "Советский художник Эйбушиц Юрий Семенович",
+      "Родился в 1907 году.",
+      "Художник - живописец.",
+      "Умер в 1988 году."
+    ],
+    "birthDate": "1907",
+    "deathDate": null
+  },
+  {
+    "url": "eiges-vr-1888",
+    "title": "Эйгес В.Р. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eiges-vr-1888.jpg",
+    "description": [
+      "Московский художник Эйгес Вениамин Романович",
+      "Родился в Брянске в 1888.",
+      "Закончил: Школа-студия К. Ф. Юона и И. О. Дудина, Москва, 1905-06; «Институт живописи, скульптуры и архитектуры имени И. Е. Репина» 1907-15 (военная служба в 1915-18).",
+      "Живописец, художник-график, учитель.",
+      "Важные выставки: «Бубновый валет», Москва, 1910; «Первая русская выставка», Берлин, 1922; «Художники РСФСР за 15 лет», Ленинград, 1932; «Художники РСФСР за 15 лет», Москва, 1933.",
+      "Член обществ: «Бытие» 1921-29; «Общество московских художников» с 1929.",
+      "Преподавал: «Московское академическое художественное училище памяти 1905 года» в 1930-х годах.",
+      "Жил и работал в Москве и Малаховке, Московская область.",
+      "Умер в 1956."
+    ],
+    "birthDate": "1888",
+    "deathDate": null
+  },
+  {
+    "url": "eyges-ov-1910",
+    "title": "Эйгес О.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyges-ov-1910.jpg",
+    "description": [
+      "Советский художник Эйгес Ольга Вячеславовна",
+      "Родился 12 августа 1910 года.",
+      "Художник - живописец.",
+      "Умер 28 августа 1996 года."
+    ],
+    "birthDate": "1910",
+    "deathDate": null
+  },
+  {
+    "url": "eiges-sk-1910",
+    "title": "Эйгес С.К. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eiges-sk-1910.jpg",
+    "description": [
+      "Московский художник Эйгес Сергей Константинович",
+      "Родился в Москве в 1910(01?).",
+      "Закончил: «Ленинградский высший художественно-технический институт» 1927-30.",
+      "Живописец, художник-график.",
+      "Важные выставки: «Художники РСФСР за 15 лет», Москва, 1933.",
+      "Жил и работал в Москве.",
+      "Умер в 1942."
+    ],
+    "birthDate": "1910",
+    "deathDate": null
+  },
+  {
+    "url": "eyges-tv-1912",
+    "title": "Эйгес Т.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyges-tv-1912.jpg",
+    "description": [
+      "Советский художник Эйгес Тамара Владимировна",
+      "Родился 3 июня 1912 года.",
+      "Художник - живописец.",
+      "Умер в 1991 году."
+    ],
+    "birthDate": "1912",
+    "deathDate": null
+  },
+  {
+    "url": "eidelman-il-1931",
+    "title": "Эйдельман (Ейдельман) И.Л. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eidelman-il-1931.jpg",
+    "description": [
+      "Минский художник Эйдельман Иосиф Лазаревич",
+      "Родился в Хмельницкой области, Украина, в 1931.",
+      "Окончил Львовский институт прикладного и декоративного искусства (1953-1958).",
+      "Учителя по специальности: Р.Ю. Сельской.",
+      "Художник монументально-декоративного искусства и живописец.",
+      "Участвовал в выставках: республиканских, всесоюзных, зарубежных и международных (1960).",
+      "Основные произведения — выполнил роспись лекционного зала Минского тракторного завода (в соавторстве с М. А. Б л ищем, 1961), панно в лекционном зале Минского автозавода (в соавторстве с М. С. Гугелем, 1962), мозаичное панно «Моя Белоруссия» для актового зала Минского радиотехнического института (1965), витраж для Белорусского государственного музея истории Великой Отечественной войны (1967), витраж «Беларусь» для белорусского раздела советского павильона на международной ярмарке в Лейпциге (в соавторстве с В. Романко и А. Зинчуком, 1967), витраж «Индустрия» для павильона ВДНХ БССР (1968).",
+      "«Осенняя сказка» (1962), «Минск ночью» (1963), «Весна в лесу» (1965); серия «Времена года» (1966); триптих «Минск» и «Портрет Героя советского союза В.3. Хоружей» (в соавторстве с В. Гордеенко, 1970).",
+      "Преподавал в Минском художественном училище (с 1958).",
+      "Жил и работал в Минске, Белоруссия."
+    ],
+    "birthDate": "1931",
+    "deathDate": null
+  },
+  {
+    "url": "eydi-ga-1975",
+    "title": "Эйди Г.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eydi-ga-1975.jpg",
+    "description": [
+      "Советский художник Эйди Галина Андреевна",
+      "Родился 29 октября 1975 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1975",
+    "deathDate": null
+  },
+  {
+    "url": "eydlin-lyu-1918",
+    "title": "Эйдлин Л.Ю. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eydlin-lyu-1918.jpg",
+    "description": [
+      "Советский художник Эйдлин Леонид Юльевич",
+      "Родился 22 августа 1918 года.",
+      "Художник - скульптор.",
+      "Умер 31 августа 2001 года."
+    ],
+    "birthDate": "1918",
+    "deathDate": null
+  },
+  {
+    "url": "eydrigyavichyus-sl-1949",
+    "title": "Эйдригявичюс С.Л. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eydrigyavichyus-sl-1949.jpg",
+    "description": [
+      "Советский художник Эйдригявичюс Стасис Леонардович",
+      "Родился 24 июня 1949 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1949",
+    "deathDate": null
+  },
+  {
+    "url": "eizenshtein-sm-1898",
+    "title": "Эйзенштейн С.М. -",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eizenshtein-sm-1898.jpg",
+    "description": [
+      "Московский художник Эйзенштейн Сергй Михайлович",
+      "Родился 10 (22?) января 1898 года, в Риге.",
+      "Окончил Рижское реалское училище (1915), Петрогрский институт гражданского инженирования (ныне Санкт-Петербург, 1915—1918), государственные высшее режиссерские мастерские (1921—1922).",
+      "Учителя по специальности: В. Мейерхольда.",
+      "Российский режиссер, художник, сценарист, теоретик кино, педагог. Поставил фильм, где вместо сюжета прокламировал монтаж аттракционов, вместо «кинозвезд» — коллективного героя - массу. Интересными были поиски художника в области кинематографии средств — монтажа, ритма, близких планов, ракурсов, метафор.. В фильме «Октябрь» (1927) реж. использовал ряд монтаж. сочетаний - кинометафор. Е. создал теорию «интеллектуал. кино», осн. на возможности средствами кино подавать не только художественные образы, но и наук. понятия.",
+      "На творческой совещании 1935 в Москве в докладе художника, произнес собственный взгляд на развитие советского кино, процесс творчества, «внутренний монолог» (возможность через сложное сочетание изображения и звука выражать на экране мысли, чувства, настроения человека). Разработанный им метод режиссерского практикума заложил основы преподавания режиссуры. Изучал вопрос общественной композиции фильма, монтажа, звуко - зрительной структуры, пластической культуры кадра, цвета и истории кино.",
+      "Директор искусствоведения (1939), профессор (1937). Заслуженный деятель искусств УССР (1935). Получил Сталинскую премию (1941, 1946), государственные награды СССР. Сблизился с группой В. Маяковского, в журнале которого («ЛЕФ», 1923, № 5) опубликовал творческий манифест «Монтаж аттракционов», где традиционной драматургии противопоставил сочетание (монтаж) ударных воздействий (аттракционов), в которые входили приемы цирка, эстрады, плаката, публицистики.",
+      "Работал в заведующим художественной части в Первой мастерской театра Пролеткульта (1920); руководитель, преподаватель театральных мастерских Пролеткульта (1923); преподавал во ВГИКе (Москва, 1928): заведующий кафедры режиссуры (1932).",
+      "Основные произведения: оформил спектакль — «Мексиканец» (1921); спектакли — «Мудрец», «Слышишь года, в городе Москва», «Противогазы» (1923—1924); поставил фильм — «Стачка» (1924); «Броненосец\" Потемкин \"» (1925), «Октябрь» (1927), «Старое и новое» («Генеральная линия») (1929), «Землетрясение в Оахаке» (1931), «Бежин луг» (1935—1937), «Александр Невский» (1938), «Иван Грозный» (2 серии, 1945),",
+      "О творчестве автора создано более 10 документальных и телефильмов (с 1960-х годов). Проводят выставки его художественных работ и ретроспективы фильмов в разных странах мира. В Москве действует Эйзенштейнский центр культуры, выдавал теоретические и исторические тексты о жизни и творчестве художника и других известных деятелей мирового кино (1996).",
+      "Умер 11 февраля 1948 года, в городе Москва."
+    ],
+    "birthDate": "1898",
+    "deathDate": null
+  },
+  {
+    "url": "eizerikov-mi-1922",
+    "title": "Эйзериков М.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eizerikov-mi-1922.jpg",
+    "description": [
+      "Ставропольский художник Эйзериков Михаил Иосифович",
+      "Родился в 1922.",
+      "Жил и работал в г. Кисловодск, Ставропольская область.",
+      "Умер в 1991 году."
+    ],
+    "birthDate": "1922",
+    "deathDate": null
+  },
+  {
+    "url": "eykel-man-sm-1911",
+    "title": "Эйкельман С.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eykel-man-sm-1911.jpg",
+    "description": [
+      "Советский художник Эйкельман Семен Моисеевич",
+      "Родился 5 апреля 1911 года.",
+      "Художник - скульптор.",
+      "Умер в 2000 году."
+    ],
+    "birthDate": "1911",
+    "deathDate": null
+  },
+  {
+    "url": "eylanbekov-sr-1960",
+    "title": "Эйланбеков С.Р. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eylanbekov-sr-1960.jpg",
+    "description": [
+      "Советский художник Эйланбеков Сергей Рауфович",
+      "Родился в 1960 году.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1960",
+    "deathDate": null
+  },
+  {
+    "url": "eylenkri-yui-1915",
+    "title": "Эйленкри Ю.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eylenkri-yui-1915.jpg",
+    "description": [
+      "Советский художник Эйленкри Юся (Хая-Рахель) Исааковна",
+      "Родился 12 апреля 1915 года.",
+      "Художник - живописец.",
+      "Умер в ? году."
+    ],
+    "birthDate": "1915",
+    "deathDate": null
+  },
+  {
+    "url": "eymanavichene-gb-1942",
+    "title": "Эйманавичене Г.Б. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eymanavichene-gb-1942.jpg",
+    "description": [
+      "Советский художник Эйманавичене Гражина-Виктория Броневна",
+      "Родился 19 января 1942 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1942",
+    "deathDate": null
+  },
+  {
+    "url": "eynmann-eya-1913",
+    "title": "Эйнманн Э.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eynmann-eya-1913.jpg",
+    "description": [
+      "Советский художник Эйнманн Эдуард Янович",
+      "Родился 23 января 1913 года.",
+      "Художник - живописец.",
+      "Умер 27 января 1982 года."
+    ],
+    "birthDate": "1913",
+    "deathDate": null
+  },
+  {
+    "url": "eysman-semenovskiy-e-1857",
+    "title": "Эйсман-Семеновский Э.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eysman-semenovskiy-e-1857.jpg",
+    "description": [
+      "Императорский художник Эйсман-Семеновский Эмиль",
+      "Родился в 1857 году.",
+      "Художник - живописец.",
+      "Умер в 1911 году."
+    ],
+    "birthDate": "1857",
+    "deathDate": null
+  },
+  {
+    "url": "eismont-vv-1945",
+    "title": "Эйсмонт В.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eismont-vv-1945.jpg",
+    "description": [
+      "Сумской художник Эйсмонт Валерий Владимирович",
+      "Родился 12 марта 1945 года, в городе Яготин (сейчас Киевская область).",
+      "Окончил Орловский педагогический институт (1967), Харьковский художественно – промышленный институт (1975).",
+      "Учителя по специальности: Е. Егоров, Б. Косарев, А. Хмельницкий.",
+      "Художник - монументалист и живописец. Работал в отрасли монументально - декоративной и станковой живописи. Монументальные работы обозначены масштабностью и выражение лаконичностью композиционных решений, станковые — юмористической обостренностью сюжетов. Автор ряда монументального панно и декоративных росписей для учреждений Сум.",
+      "Член Национального Союза Художников Украины (1988).",
+      "Работал в Сумском отделении, Художественного фонда Украины (1975—1999).",
+      "Участвовал в выставках: областных, республиканских, всесоюзных и зарубежных (с конца 1970-х годов). Персональные выставки — посмертная в Сумах (2001).",
+      "Основные произведения: мозаики — на фасаде городской детской больницы (1987), фойе университета (1988); живописные полотна — «Девочка» (1988), «Противоречия» (1994), «Будем здоровы, Валентин!», «Депрессия» (1995).",
+      "Отдельные произведения хранятся в Сумском художественном музее.",
+      "Жил и работал в городе Сумы, умер 04 июля 1999 года."
+    ],
+    "birthDate": "1945",
+    "deathDate": null
+  },
+  {
+    "url": "eysner-ap-1872",
+    "title": "Эйснер А.П. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eysner-ap-1872.jpg",
+    "description": [
+      "Императорский художник Эйснер Алексей Петрович",
+      "Родился 30 января 1872 года.",
+      "Художник - живописец.",
+      "Умер в 1942 году."
+    ],
+    "birthDate": "1872",
+    "deathDate": null
+  },
+  {
+    "url": "eysner-pi-1839",
+    "title": "Эйснер П.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eysner-pi-1839.jpg",
+    "description": [
+      "Императорский художник Эйснер Петр Иванович",
+      "Родился в 1839 году.",
+      "Художник - живописец.",
+      "Умер в 1872 году."
+    ],
+    "birthDate": "1839",
+    "deathDate": null
+  },
+  {
+    "url": "eyteneyer-a-1949",
+    "title": "Эйтенейер А.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyteneyer-a-1949.jpg",
+    "description": [
+      "Советский художник Эйтенейер Анатолий",
+      "Родился в 1949 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1949",
+    "deathDate": null
+  },
+  {
+    "url": "eytmanayte-mf-1931",
+    "title": "Эйтманайте М.Ф. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eytmanayte-mf-1931.jpg",
+    "description": [
+      "Советский художник Эйтманайте Мильда Феликсовна",
+      "Родился 11 мая 1931 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1931",
+    "deathDate": null
+  },
+  {
+    "url": "eitmanaite-mf-1931",
+    "title": "Эйтманайте М.Ф. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eitmanaite-mf-1931.jpg",
+    "description": [
+      "Литовский художник Эйтманайте Мильда Феликсо",
+      "Родился в 1931.",
+      "Жил и работал в Вильнюсе, Литва."
+    ],
+    "birthDate": "1931",
+    "deathDate": null
+  },
+  {
+    "url": "eyfert-va-1884",
+    "title": "Эйферт В.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyfert-va-1884.jpg",
+    "description": [
+      "Советский художник Эйферт Владимир (Вольдемар) Александрович",
+      "Родился 1 августа 1884 года.",
+      "Художник - живописец.",
+      "Умер 4 августа 1960 года."
+    ],
+    "birthDate": "1884",
+    "deathDate": null
+  },
+  {
+    "url": "eifert-va-1884",
+    "title": "Эйферт В.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eifert-va-1884.jpg",
+    "description": [
+      "Казахский художник Эйферт Владимир Александрович",
+      "Родился в 1884.",
+      "Преподавал в художественной студии Кировского клуба, Караганда, конец 1940-х начало 1950-х годов.",
+      "Умер в Караганде в 1960."
+    ],
+    "birthDate": "1884",
+    "deathDate": null
+  },
+  {
+    "url": "eyhman-mg-1921",
+    "title": "Эйхман М.Г. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyhman-mg-1921.jpg",
+    "description": [
+      "Советский художник Эйхман Мария Григорьевна",
+      "Родился 11 января 1921 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1921",
+    "deathDate": null
+  },
+  {
+    "url": "ekber-eg-1962",
+    "title": "Экбер Е.Г. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ekber-eg-1962.jpg",
+    "description": [
+      "Советский художник Экбер Евгений Геннадиевич",
+      "Родился в 1962 году.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1962",
+    "deathDate": null
+  },
+  {
+    "url": "ekgorst-ve-1831",
+    "title": "Экгорст В.Е. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ekgorst-ve-1831.jpg",
+    "description": [
+      "Ленинградский художник Экгорст Василий Ефимович",
+      "Родился в 1831.",
+      "Закончил: «Императорская Академия искусств» в конце 1850х-начале 1860х.",
+      "Участвовал в выставках не позже, чем с 1867.",
+      "Специализировался на популярных сценах, пейзажах.",
+      "Жил и работал в Санкт-Петербурге.",
+      "Умер в 1901."
+    ],
+    "birthDate": "1831",
+    "deathDate": null
+  },
+  {
+    "url": "ekkert-ef-1890",
+    "title": "Эккерт Э.Ф. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ekkert-ef-1890.jpg",
+    "description": [
+      "Советский художник Эккерт Эмиль-Оскар Фридрихович",
+      "Родился 16 ноября 1890 года.",
+      "Художник - скульптор.",
+      "Умер в 1957 году."
+    ],
+    "birthDate": "1890",
+    "deathDate": null
+  },
+  {
+    "url": "ekman-rv-1808",
+    "title": "Экман Р.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ekman-rv-1808.jpg",
+    "description": [
+      "Императорский художник Экман Роберт Вильгельм",
+      "Родился 13 августа 1808 года.",
+      "Художник - живописец.",
+      "Умер 19 августа 1873 года."
+    ],
+    "birthDate": "1808",
+    "deathDate": null
+  },
+  {
+    "url": "ekster-aa-1882",
+    "title": "Экстер А.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ekster-aa-1882.jpg",
+    "description": [
+      "Киевский художник Экстер Александра Александровна",
+      "Родился 6 (18?) января 1882 года, в городе Белосток (ныне Польша).",
+      "Учился в Киевском художественном училище (1901—1903, 1906); академии Гранд-Шомьер в Париже (1908).",
+      "Учителя по специальности: М. Пимоненко, С. Светославского, К. Дельваля.",
+      "Живописец, график, сценограф и педагог. Творчество художника связано с кубизмом, конструктивизмом, пуризм. Создала кубофутуристовский вариант абстрактной живописи. Был дизайнером книг, одежды. Как член-основатель Киевского кустарного товарищества способствовала возрождению народных промыслов в селе Вербовка (ныне Каменнаяский район, Черкасская область) и селе Скопцы Переяслав (ныне село Веселиновка, Барышиский район, Киевская область).",
+      "Член авангардного объединения художников России «Бубновый валет» (1910), «Союз молодежи»; модернистических выставок во Франции, Италии. Создал мастерскую декоративного искусства. Организатор 1-го Республиканского съезда деятелей культуры за гетмана П. Скоропадского (1918). Выступал на открытии выставки декоративных работ Е. Прибыльский и народного художника Г. Собачко-Шостак (1918). Основал Киевскую школу кубофутуристовскую и конструктивистическую сценографии. В Париже познакомилась с П. Пикассо, Г. Аполлинером (1908).",
+      "Работал: главный художник Московского камерного театра А. Таирова (1916—1921); преподавала в академии современного искусства Ф. Леже (1924). Преподавал в собственой студии декоративного искусства в Киеве (1918—1919), Одессе (1919—1920), а также в Высшие художественно - технические мастерских (Москва, 1921—1922); в кино с режиссером Я. Протазановым. В доме своего мужа в Киеве открыл художественную мастерскую, где в разные годы бывали А. Ахматова, И. Эренбурга, В. Шкловский, Н. Гумилев, Д. Бурлюк, Б. Лившиц и других. Среди ее учеников и последователей — А. Петрицкий, В. Меллер, А. Хвостенко-Хвостов.",
+      "Участвовал в выставках с 1908 года. Персональные выставки — в Киеве. Важные выставкит: в журнале: «Въ мир искусствъ», авангардная выставка «Звено» с братьями Бурлюками, Н. Гончаровой, М. Ларионовым, Украинская живопись 17-20 века (Киев, 1929). Совместно с А. Богомазовым организовал выставку «левых» киевских художников «Кольцо» (1914). Экспонировал свои произведения на выставках «Трамвай В» в Санкт-Петербурге (1915).",
+      "Основные произведения: живопись — «Мост. Севр» (1912), «Фундуклеевская улица в Киеве» (1914), «Динамика цвета» (1916), «Город ночью» (1919), «Конструкция цвета» (1924), «Рыбачка», «Девушка с мандолиной» (1928); графика — «Костюм Джульетты» (1920), эскиз к спектаклю «Отелло» В. Шекспира (1930). Работал над оформлением балетных постановок Киевской студии Б. Нежинской. Участвовал в создании большого агитпропа (Киев года, в городе Одесса, 1919).",
+      "Жил и работал в городе Киев. Умер 17 марта 1949 года, в городе Фонтене-о-Роз, недалеко от Парижа."
+    ],
+    "birthDate": "1882",
+    "deathDate": null
+  },
+  {
+    "url": "elaken-el-kina-do-1987",
+    "title": "Элакен (Елькина) Д.О. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elaken-el-kina-do-1987.jpg",
+    "description": [
+      "Советский художник Элакен (Елькина) Диана Олеговна",
+      "Родился 2 марта 1987 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1987",
+    "deathDate": null
+  },
+  {
+    "url": "eledzhiev-nya-1938",
+    "title": "Эледжиев Н.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eledzhiev-nya-1938.jpg",
+    "description": [
+      "Советский художник Эледжиев Наран Яковлевич",
+      "Родился 1 августа 1938 года.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1938",
+    "deathDate": null
+  },
+  {
+    "url": "elezhkevich-s-1900",
+    "title": "Элежкевич С.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elezhkevich-s-1900.jpg",
+    "description": [
+      "Советский художник Элежкевич Станислав",
+      "Родился в 1900 году.",
+      "Художник - живописец.",
+      "Умер в 1963 году."
+    ],
+    "birthDate": "1900",
+    "deathDate": null
+  },
+  {
+    "url": "elentuh-ib-1913",
+    "title": "Элентух И.Б. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elentuh-ib-1913.jpg",
+    "description": [
+      "Минский художник Элентух Израиль Борисович",
+      "Родился 15 мая в 1913 году в деревне Селибе Березинского района Минской области.",
+      "Учился в Ленинградском художественно-педагогическом техникуме (1930—1933), на искусствоведческом факультете Института живописи, скульптуры и архитектуры им. И. Е. Репина Всероссийской Академии художеств (с 1937—1943).",
+      "Искусствовед.",
+      "Работал начальником отдела по охране памятников архитектуры Госстроя БССР (1948—1967), ученым секретарем Госстроя БССР. В 40—50-х гг. читал курс истории искусства на историческом факультете Белорусского государственного университета им. В. И. Ленина.",
+      "Основные произведения — о современном белорусском изобразительном искусстве, о памятниках истории и культуры республики, монографии о белорусских художниках В. В. Волкове (1956), Е. Е. Красовском (1959), А. Д. Шибневе (1959), а также книги «Памятники архитектуры Белоруссии» (совместно с В. А. Чантурия, 1970), «Как смотреть картину» (1970) и другие.",
+      "Член КПСС с 1943 г."
+    ],
+    "birthDate": "1913",
+    "deathDate": null
+  },
+  {
+    "url": "eleon-ne-1951",
+    "title": "Элеон Н.Е. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eleon-ne-1951.jpg",
+    "description": [
+      "Хмельницкий художник Элеон Надежда Ефремовна",
+      "Родился 10 февраля 1951 года, в селе Явтухи, Деражнянского района, Каменец-Подольской области (ныне Хмельницкая область).",
+      "Окончил Харьковский художественно - промышленный институт (1987).",
+      "Учителя по специальности: С. Беседин, В. Вихтинський, М. Шапошников.",
+      "Живописец, график и педагог. Оформлял интерьеры, школы, музеи. В творчестве использует разделение традиции и мотивы.",
+      "Работал в Шепетыцкой детской художественной школе, Хмельницкая область (1973—2006): директор (1998). Сотрудничал с издательством «Знамя», Харьков (1982—1987). Преподаватель лицея в городе Шепетовка (2006). Среди учеников — В. Чумак.",
+      "Участвовал в выставках: областных, республиканских (с 1970-х годов).",
+      "Основные произведения: живопись — «Подсолнухи» (1981), «Солнечные цветы» (2008); графика — «Триумф урожая» (1987); вышивка — «Подольский вазон»; бумажная пластика — «Ромашковое лето» (2008).",
+      "Жил и работал в городе Хмельницкий."
+    ],
+    "birthDate": "1951",
+    "deathDate": null
+  },
+  {
+    "url": "elers-k-1733",
+    "title": "Элерс К.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elers-k-1733.jpg",
+    "description": [
+      "Императорский художник Элерс Клас",
+      "Родился в 1733 году.",
+      "Художник - скульптор.",
+      "Умер в 1794 году."
+    ],
+    "birthDate": "1733",
+    "deathDate": null
+  },
+  {
+    "url": "eliava-ta-1933",
+    "title": "Элиава Т.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eliava-ta-1933.jpg",
+    "description": [
+      "Советский художник Элиава Тамара Алексеевна",
+      "Родился 14 июля 1933 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1933",
+    "deathDate": null
+  },
+  {
+    "url": "elias-gia-1887",
+    "title": "Элиас Г.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elias-gia-1887.jpg",
+    "description": [
+      "Латвийский художник Элиас Гедерт Янович",
+      "Родился в 1887.",
+      "Преподавал: «Рижская Академия искусств» 1930-х годах, 1940-х годах.",
+      "Жил и работал в Риге, Латвия.",
+      "Умер в 1975."
+    ],
+    "birthDate": "1887",
+    "deathDate": null
+  },
+  {
+    "url": "elias-mv-1911",
+    "title": "Элиас М.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elias-mv-1911.jpg",
+    "description": [
+      "Латвийский художник Элиас Марта Вольдемаровна",
+      "Родился в 1911.",
+      "Жил и работал в Риге, Латвия.",
+      "Умер в период 1958-67."
+    ],
+    "birthDate": "1911",
+    "deathDate": null
+  },
+  {
+    "url": "elias-mk-1924",
+    "title": "Элиас М.К. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elias-mk-1924.jpg",
+    "description": [
+      "Латвийский художник Элиас Майя Кристаповна",
+      "Родился в 1924.",
+      "Жил и работал в Риге, Латвия.",
+      "Умер в 1991 году."
+    ],
+    "birthDate": "1924",
+    "deathDate": null
+  },
+  {
+    "url": "eliasberg-nm-1940",
+    "title": "Элиасберг Н.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eliasberg-nm-1940.jpg",
+    "description": [
+      "Советский художник Элиасберг Наталья Максимовна",
+      "Родился 23 июня 1940 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1940",
+    "deathDate": null
+  },
+  {
+    "url": "eliashvili-i-1973",
+    "title": "Элиашвили И.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eliashvili-i-1973.jpg",
+    "description": [
+      "Советский художник Элиашвили Ирина",
+      "Родился в 1973 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1973",
+    "deathDate": null
+  },
+  {
+    "url": "elibekyan-va-1910",
+    "title": "Элибекян В.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elibekyan-va-1910.jpg",
+    "description": [
+      "Советский художник Элибекян Вагаршак Арутюнович",
+      "Родился в 1910 году.",
+      "Художник - живописец.",
+      "Умер в 1994 году."
+    ],
+    "birthDate": "1910",
+    "deathDate": null
+  },
+  {
+    "url": "elibekian-gv-1936",
+    "title": "Элибекян Г.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elibekian-gv-1936.jpg",
+    "description": [
+      "Армянский художник Элибекян Генрих Вагаршакович",
+      "Родился в Тбилиси, Грузия, в 1936.",
+      "Живописец, скульптор, театральный художник.",
+      "Жил и работал в Москве; в Киеве, Украина; в Ереване, Армения, с 1972;"
+    ],
+    "birthDate": "1936",
+    "deathDate": null
+  },
+  {
+    "url": "elibekian-rv-1941",
+    "title": "Элибекян Р.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elibekian-rv-1941.jpg",
+    "description": [
+      "Армянский художник Элибекян Роберт Вагаршакович",
+      "Родился в Тбилиси, Грузия, в 1941.",
+      "Закончил: «Ереванский художественно-театральный институт» 1960-65.",
+      "Живописец, театральный художник.",
+      "Участвовал в выставках с 1965.",
+      "Жил и работал в Ереване, Армения."
+    ],
+    "birthDate": "1941",
+    "deathDate": null
+  },
+  {
+    "url": "elinson-ellinson-g-1935",
+    "title": "Элинсон (Эллинсон) Г. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elinson-ellinson-g-1935.jpg",
+    "description": [
+      "Ленинградский художник Элинсон (Эллинсон) Генрих (Хенри)",
+      "Родился в Ленинграде в 1935.",
+      "Член группы «Художники-нонконформисты».",
+      "Жил и работал в Ленинграде."
+    ],
+    "birthDate": "1935",
+    "deathDate": null
+  },
+  {
+    "url": "elinson-gd-1935",
+    "title": "Элинсон Г.Д. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elinson-gd-1935.jpg",
+    "description": [
+      "Советский художник Элинсон Генрих (Гарри) Давыдович",
+      "Родился в 1935 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1935",
+    "deathDate": null
+  },
+  {
+    "url": "elisashvili-va-1922",
+    "title": "Элисашвили В.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elisashvili-va-1922.jpg",
+    "description": [
+      "Грузинский художник Элисашвили Вахтанг Арчилович",
+      "Родился в 1922.",
+      "Жил и работал в Тбилиси, Грузия."
+    ],
+    "birthDate": "1922",
+    "deathDate": null
+  },
+  {
+    "url": "elksnite-sia-1929",
+    "title": "Элксните С.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elksnite-sia-1929.jpg",
+    "description": [
+      "Латвийский художник Элксните Скайдрите Яновна",
+      "Родился в 1929.",
+      "Жил и работал в г. Лиепая.",
+      "Умер в 2002 году."
+    ],
+    "birthDate": "1929",
+    "deathDate": null
+  },
+  {
+    "url": "ellert-nl-1845",
+    "title": "Эллерт Н.Л. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ellert-nl-1845.jpg",
+    "description": [
+      "Московский художник Эллерт Николай Людвигович",
+      "Родился в 1845.",
+      "Живописец, театральный художник.",
+      "Участвовал в выставках передвижников 1884-92.",
+      "Специализировался на пейзажах.",
+      "Член группы «Московское товарищество художников» 1890.",
+      "Жил и работал в Москве.",
+      "Умер в 1901."
+    ],
+    "birthDate": "1845",
+    "deathDate": null
+  },
+  {
+    "url": "ellin-an-1872",
+    "title": "Эллин А.Н. ?",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ellin-an-1872.jpg",
+    "description": [
+      "Ленинградский художник Эллин А.Н.",
+      "Родился в 1872?",
+      "Участвовал в выставках передвижников в 1907."
+    ],
+    "birthDate": "1872",
+    "deathDate": null
+  },
+  {
+    "url": "ellinskii-go-1936",
+    "title": "Эллинский Г.О. -",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ellinskii-go-1936.jpg",
+    "description": [
+      "Ленинградский художник Эллинский Гарри Олегович",
+      "Родился 14 мая 1936 года, в городе Ленинград (ныне Санкт-Петербург).",
+      "Окончил художественное училище (1955), актерскую студию (1965) в город Горький (ныне Нижний Новгород).",
+      "Художник театра, актер.",
+      "Член Союза Художников Российской Федерации.",
+      "Работал актером - художником и главным художником русского драмтеатров Горького, в городе Днепропетровска (1961—1972) и Йошкар-Олы (Мари Эл, России, 1972—1989), главным художником Самаровского театра драмы (1990—1994), театра оперы и балета (с 1994).",
+      "Основные произведения: оформил спектакли — «Правда хорошо, а счастье лучше», «Волки и овцы», «Кабала святош», «Цилиндр», «Сильва».",
+      "Умер 27 мая 2000 года, в городе Самара."
+    ],
+    "birthDate": "1936",
+    "deathDate": null
+  },
+  {
+    "url": "ellonen-vv-1891",
+    "title": "Эллонен В.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ellonen-vv-1891.jpg",
+    "description": [
+      "Советский художник Эллонен Виктор Вильгельмович",
+      "Родился 22 августа 1891 года.",
+      "Художник - живописец.",
+      "Умер 20 августа 1980 года."
+    ],
+    "birthDate": "1891",
+    "deathDate": null
+  },
+  {
+    "url": "elmar-ai-1949",
+    "title": "Элмар А.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elmar-ai-1949.jpg",
+    "description": [
+      "Советский художник Элмар Александр Иванович",
+      "Родился 1 февраля 1949 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1949",
+    "deathDate": null
+  },
+  {
+    "url": "eloyan-sn-1958",
+    "title": "Элоян С.Н. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eloyan-sn-1958.jpg",
+    "description": [
+      "Советский художник Элоян Сергей Норикович",
+      "Родился 8 октября 1958 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1958",
+    "deathDate": null
+  },
+  {
+    "url": "elbert-vd-1927",
+    "title": "Эльберт В.Д. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elbert-vd-1927.jpg",
+    "description": [
+      "Киевский художник Эльберт Виктор Давыдович",
+      "Родился 11 декабря 1927 года, в городе Богуславы, Киевской области.",
+      "Учился в Свердловском художественное училище (1942—1944), закончил Киевский художественный институт (1950).",
+      "Учителя по специальности – М. Иванов, О. Фомин, О. Сиротенко, Т. Яблонская, О. Шовкуненко.",
+      "Работал в отрасли станковой живописи.",
+      "Участвовал в выставках: республиканских (с 1951), заграничных.",
+      "Основные произведения: «Юные шефы леса» (1952); «Днепровские дальше» (1954); «К могиле большого Кобзаря», «Киев. Около памятника» Золотые ворота» (1961)»; Ленинград. На Неве» (1964) и другие.",
+      "Жил и работал в городе Киев. Умер в 2006 году."
+    ],
+    "birthDate": "1927",
+    "deathDate": null
+  },
+  {
+    "url": "el-gurt-ish-1924",
+    "title": "Эльгурт И.Ш. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-gurt-ish-1924.jpg",
+    "description": [
+      "Советский художник Эльгурт Иосиф Шмул-Аронович",
+      "Родился 12 февраля 1924 года.",
+      "Художник - живописец.",
+      "Умер 29 февраля 2007 года."
+    ],
+    "birthDate": "1924",
+    "deathDate": null
+  },
+  {
+    "url": "el-darov-og-1927",
+    "title": "Эльдаров О.Г. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-darov-og-1927.jpg",
+    "description": [
+      "Советский художник Эльдаров Омар Гасанович",
+      "Родился 21 декабря 1927 года.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1927",
+    "deathDate": null
+  },
+  {
+    "url": "el-darova-in-1955",
+    "title": "Эльдарова И.Н. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-darova-in-1955.jpg",
+    "description": [
+      "Советский художник Эльдарова Ирина Николаевна",
+      "Родился в 1955 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1955",
+    "deathDate": null
+  },
+  {
+    "url": "el-darova-nv-1951",
+    "title": "Эльдарова Н.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-darova-nv-1951.jpg",
+    "description": [
+      "Советский художник Эльдарова Надежда Викторовна",
+      "Родился 1 августа 1951 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1951",
+    "deathDate": null
+  },
+  {
+    "url": "el-diev-ra-1951",
+    "title": "Эльдиев Р.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-diev-ra-1951.jpg",
+    "description": [
+      "Советский художник Эльдиев Руслан Алимович",
+      "Родился 6 ноября 1951 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1951",
+    "deathDate": null
+  },
+  {
+    "url": "el-diev-re-1947",
+    "title": "Эльдиев Р.Э. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-diev-re-1947.jpg",
+    "description": [
+      "Советский художник Эльдиев Руслан Эльжийкиевич",
+      "Родился в 1947 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1947",
+    "deathDate": null
+  },
+  {
+    "url": "elken-ial-1954",
+    "title": "Элькен Я.Л. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elken-ial-1954.jpg",
+    "description": [
+      "Эстонский художник Элькен Яан Лаосович",
+      "Родился в 1954.",
+      "Закончил: «Таллиннский художественный институт» до 1977.",
+      "Рисовал городские сцены.",
+      "Жил и работал в Таллинне, Эстония."
+    ],
+    "birthDate": "1954",
+    "deathDate": null
+  },
+  {
+    "url": "elkin-lm-1924",
+    "title": "Элькин (Елькин) Л.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elkin-lm-1924.jpg",
+    "description": [
+      "Нижегородский художник Элькин (Елькин) Леонид Михайлович",
+      "Родился 05 декабря 1924 года в Кировской области.",
+      "Закончил: Горьковское художественное училище (1949-1953).",
+      "Участвовал в выставках (с 1953?).",
+      "Особенно хорошо у художника получались портреты.",
+      "Преподавал в Доме пионеров В. П. Чкалова (1953-1958).",
+      "Жил и работал в г. Горький (ныне Нижний Новгород)."
+    ],
+    "birthDate": "1924",
+    "deathDate": null
+  },
+  {
+    "url": "elkonin-vb-1910",
+    "title": "Эльконин В.Б. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elkonin-vb-1910.jpg",
+    "description": [
+      "Московский художник Эльконин Виктор Борисович",
+      "Родился в 1910.",
+      "Закончил: Студия М. В. Леблана, Москва; «Ленинградский высший художественно-технический институт» 1927-1931(30?).",
+      "Живописец, скульптор; художественный критик (под псевдонимом Викторов в 1930-х годах).",
+      "Участвовал в выставках с 1932?",
+      "Член общества «Четыре искусства» 1931-32.",
+      "Работал в студии монументальной живописи Академии архитектуры 1935-41.",
+      "Жил и работал в Москве.",
+      "Умер в 1994."
+    ],
+    "birthDate": "1910",
+    "deathDate": null
+  },
+  {
+    "url": "el-konina-mv-1935",
+    "title": "Эльконина М.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-konina-mv-1935.jpg",
+    "description": [
+      "Советский художник Эльконина Мария (Марианна) Викторовна",
+      "Родился 4 апреля 1935 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1935",
+    "deathDate": null
+  },
+  {
+    "url": "elkonina-mv-1935",
+    "title": "Эльконина М.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elkonina-mv-1935.jpg",
+    "description": [
+      "Московский художник Эльконина Мария Викторовна",
+      "Родился в 1935.",
+      "Закончил: «Московский полиграфический институт» до 1959.",
+      "Участвовал в выставках с 1957.",
+      "Жил и работал в Москве."
+    ],
+    "birthDate": "1935",
+    "deathDate": null
+  },
+  {
+    "url": "elkonina-nm-1960",
+    "title": "Эльконина Н.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elkonina-nm-1960.jpg",
+    "description": [
+      "Московский художник Эльконина Наталья Маратовна",
+      "Родился в 1960.",
+      "Жил и работал в Москве."
+    ],
+    "birthDate": "1960",
+    "deathDate": null
+  },
+  {
+    "url": "el-konina-rozenberg-nm-1910",
+    "title": "Эльконина-Розенберг Н.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-konina-rozenberg-nm-1910.jpg",
+    "description": [
+      "Советский художник Эльконина-Розенберг Надежда Михайловна",
+      "Родился в 1910 году.",
+      "Художник - живописец.",
+      "Умер в 1980 году."
+    ],
+    "birthDate": "1910",
+    "deathDate": null
+  },
+  {
+    "url": "elmanovich-vm-1920",
+    "title": "Эльманович В.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elmanovich-vm-1920.jpg",
+    "description": [
+      "Московский художник Эльманович Валентина Михайловна",
+      "Родился в 1920.",
+      "Жил и работал в Москве.",
+      "Умер 14 марта 2013 года."
+    ],
+    "birthDate": "1920",
+    "deathDate": null
+  },
+  {
+    "url": "el-met-kd-1940",
+    "title": "Эльмет К.Д. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-met-kd-1940.jpg",
+    "description": [
+      "Советский художник Эльмет Кайе Даниеловна",
+      "Родился 21 сентября 1940 года.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1940",
+    "deathDate": null
+  },
+  {
+    "url": "el-mirzaev-syu-1943",
+    "title": "Эльмирзаев С.Ю. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-mirzaev-syu-1943.jpg",
+    "description": [
+      "Советский художник Эльмирзаев Саид-Эми Юнусович",
+      "Родился 24 февраля 1943 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1943",
+    "deathDate": null
+  },
+  {
+    "url": "el-skaya-nv-1947",
+    "title": "Эльская Н.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-skaya-nv-1947.jpg",
+    "description": [
+      "Советский художник Эльская Надежда Всеволодовна",
+      "Родился в 1947 году.",
+      "Художник - живописец.",
+      "Умер 30 февраля 1978 года."
+    ],
+    "birthDate": "1947",
+    "deathDate": null
+  },
+  {
+    "url": "el-ster-mb-1927",
+    "title": "Эльстер М.Б. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-ster-mb-1927.jpg",
+    "description": [
+      "Советский художник Эльстер Маргарита Борисовна",
+      "Родился 27 марта 1927 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1927",
+    "deathDate": null
+  },
+  {
+    "url": "el-f-ss-1985",
+    "title": "Эльф С.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-f-ss-1985.jpg",
+    "description": [
+      "Советский художник Эльф Светлана Сергеевна (SvetlaDun)",
+      "Родился 26 апреля 1985 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1985",
+    "deathDate": null
+  },
+  {
+    "url": "elhones-mi-1911",
+    "title": "Эльхонес  М.И. -",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/elhones-mi-1911.jpg",
+    "description": [
+      "Харьковский художник Эльхонес Моисей Израилевич",
+      "Родился 3 февраля 1911, Вильно (ныне Вильнюс).",
+      "Окончил Харьковский художественный институт (1930).",
+      "Учителя по специальности: С. Прохоров, М. Шаронов.",
+      "Художник театра, график. Работал в области книжной графики.",
+      "Член Союза Художников Украины (1938). Участник Великой Отечественной войны. Имеет боевые награды.",
+      "Работал художником в театрах Днепропетровска, Харькова, Полтавы.",
+      "Основные произведения: оформил спектакли — «Савва Чалый» (1932), «Дубровский» (1933), «Шельменко-денщик» (1934), «Волшебная флейта» (1936); павильоны — «Украина» (1935; 1938—1940). Оформил обложку книг: «М. Ю. Лермонтов. К 100-летию со дня гибели: Сб. в.» (1941) и проиллюстрировал ряд книг К. Чуковского.",
+      "Жил и работал в городе Харьков. Умер 02 сентября 1946 года, в городе Москва."
+    ],
+    "birthDate": "1911",
+    "deathDate": null
+  },
+  {
+    "url": "el-cufen-mi-1913",
+    "title": "Эльцуфен М.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/el-cufen-mi-1913.jpg",
+    "description": [
+      "Советский художник Эльцуфен Михаил Исаакович",
+      "Родился 31 декабря 1913 года.",
+      "Художник - живописец.",
+      "Умер в 1996(97) году."
+    ],
+    "birthDate": "1913",
+    "deathDate": null
+  },
+  {
+    "url": "emeretli-bratina-kv-1963",
+    "title": "Эмеретли (Братина) К.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/emeretli-bratina-kv-1963.jpg",
+    "description": [
+      "Советский художник Эмеретли (Братина) Кира Владимировна",
+      "Родился 26 мая 1963 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1963",
+    "deathDate": null
+  },
+  {
+    "url": "eminov-ki-1928",
+    "title": "Эминов К.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eminov-ki-1928.jpg",
+    "description": [
+      "Узбекский художник Эминов Касим Ибрагимович",
+      "Родился в 1928 году, в Узбекистане.",
+      "Закончил Ташкентское художественное училище (1949—1953); Ташкентский педагогический институт (1964—1968).",
+      "Работал преподавателем в Ташкентском педагогическом институте.",
+      "Жил и работал в Ташкенте, Узбекистан. Умер в 1970-х годах."
+    ],
+    "birthDate": "1928",
+    "deathDate": null
+  },
+  {
+    "url": "eminov-rk-1950",
+    "title": "Эминов Р.К. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eminov-rk-1950.jpg",
+    "description": [
+      "Симферопольский художник Эминов Рустем Кязимович",
+      "Родился 13 апреля 1950 года, в городе Ташкент.",
+      "Окончил Ташкентский государственный педагогический институт имени А. Низами.",
+      "Преподаватели по специальности: Н. Банников.",
+      "Живописец и график.",
+      "Член Национального Союза Художников Украины (2005). Член Союза Художников СССР (1988). Заслуженный художник АР Крым (2010). Лауреат премии Верховной Рады АР Крым (2007), лауреат международные премии имени Бекира Чобанзаде (2010).",
+      "Основные произведения: «Улыбка старого города» (1984), «Юный художник» (1986), «Земляне» (1986), «Депортация» (1990—2004).",
+      "Жил и работал в городе Симферополь."
+    ],
+    "birthDate": "1950",
+    "deathDate": null
+  },
+  {
+    "url": "emirbekov-aa-1934",
+    "title": "Эмирбеков А.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/emirbekov-aa-1934.jpg",
+    "description": [
+      "Дагестанский художник Эмирбеков Алирза Абдулгашумович",
+      "Родился в 1934.",
+      "Жил и работал в г. Махачкала, Дагестан."
+    ],
+    "birthDate": "1934",
+    "deathDate": null
+  },
+  {
+    "url": "emkul-va-1919",
+    "title": "Эмкуль В.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/emkul-va-1919.jpg",
+    "description": [
+      "Советский художник Эмкуль Вера Аромковна",
+      "Родился 15 мая 1919 года.",
+      "Художник - живописец.",
+      "Умер в 1985 году."
+    ],
+    "birthDate": "1919",
+    "deathDate": null
+  },
+  {
+    "url": "emme-vv-1875",
+    "title": "Эмме В.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/emme-vv-1875.jpg",
+    "description": [
+      "Ленинградский художник Эмме Владимир Владимирович",
+      "Родился в 1875.",
+      "Закончил: «Императорская Академия искусств».",
+      "Живописец, театральный художник.",
+      "Декорировал фестивали в Петрограде в 1918.",
+      "Умер в 1920."
+    ],
+    "birthDate": "1875",
+    "deathDate": null
+  },
+  {
+    "url": "emme-lo-1898",
+    "title": "Эмме Л.О. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/emme-lo-1898.jpg",
+    "description": [
+      "Московский художник Эмме Лия Осиповна",
+      "Родился в Польше в 1898.",
+      "Закончил: Студия И. И. Машкова, Москва, или центральная студия в «Ассоциация художников революционной России» (АХРР), Москва (или оба) в 1920-х годах.",
+      "Член общества «ОМАХР» (Объединение молодежи Ассоциации художников революции) и «Ассоциация художников революции» (АХР).",
+      "Жил и работал в Москве в 1920-30-х годах."
+    ],
+    "birthDate": "1898",
+    "deathDate": null
+  },
+  {
+    "url": "engel-s-ov-1880",
+    "title": "Энгельс О.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/engel-s-ov-1880.jpg",
+    "description": [
+      "Советский художник Энгельс Оттон (Олег) Васильевич",
+      "Родился в 1880 году.",
+      "Художник - живописец.",
+      "Умер в 1940е году."
+    ],
+    "birthDate": "1880",
+    "deathDate": null
+  },
+  {
+    "url": "engels-ov-1880",
+    "title": "Энгельс О.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/engels-ov-1880.jpg",
+    "description": [
+      "Московский художник Энгельс Отто Васильевич",
+      "Родился в 1880.",
+      "Участвовал в выставках: «Московское товарищество художников» 1918, 1924.",
+      "Наиболее известен как художник-график.",
+      "Жил и работал в Москве в конце 1910-х годов."
+    ],
+    "birthDate": "1880",
+    "deathDate": null
+  },
+  {
+    "url": "ender-ag-1926-28",
+    "title": "Эндер А.Г. (28)",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-ag-1926-28.jpg",
+    "description": [
+      "Советский художник Эндер Андрей Григорьевич (Георгиевич)",
+      "Родился в 1926(28) году.",
+      "Художник - живописец.",
+      "Умер в 1977 году."
+    ],
+    "birthDate": "1926",
+    "deathDate": null
+  },
+  {
+    "url": "ender-bv-1893",
+    "title": "Эндер Б.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-bv-1893.jpg",
+    "description": [
+      "Ленинградский художник Эндер Борис Владимирович",
+      "Родился в Санкт-Петербургe в 1893.",
+      "Закончил: Студия И. Я. Билибина, Санкт-Петербург, 1905-07; Студия М. В. Матюшина, Петроград, 1917; «Ленинградская Академия искусств» 1918-22(21?).",
+      "Член группы «Зорвед».",
+      "Работал под руководством Матюшина М.В. в отделе органической культуры музея художественной культуры в «Государственный институт художественной культуры (ГИНХУК)» 1923-27. Один из авторов «Справочника по цветам» 1932 года, совместно с Н. Суетиным помог разработать цветовую схему для советских павильонов на международных выставках в Париже 1937 и Нью-Йорке 1939 года.",
+      "Жил и работал в Петрограде / Ленинграде до 1928; в Москве.",
+      "Умер в Москве в 1960.",
+      "Брат и сестры К. В., М. В. и Ю. В. Эндер."
+    ],
+    "birthDate": "1893",
+    "deathDate": null
+  },
+  {
+    "url": "ender-gv-1898",
+    "title": "Эндер Г.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-gv-1898.jpg",
+    "description": [
+      "Советский художник Эндер Георгий Владимирович",
+      "Родился в 1898 году.",
+      "Художник - живописец.",
+      "Умер в 1963 году."
+    ],
+    "birthDate": "1898",
+    "deathDate": null
+  },
+  {
+    "url": "ender-kv-1894",
+    "title": "Эндер К.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-kv-1894.jpg",
+    "description": [
+      "Ленинградский художник Эндер Ксения Владимировна",
+      "Родился в Санкт-Петербургe в 1894/95?",
+      "Закончил: «Ленинградская Академия искусств» 1919-22.",
+      "Член группы «Зорвед».",
+      "Работал в музее художественной культуры в «Государственный институт художественной культуры (ГИНХУК)» с 1923.",
+      "Умер в Ленинграде в 1955.",
+      "Сестра и братья Б. В. М. В. и Ю. В. Эндер."
+    ],
+    "birthDate": "1894",
+    "deathDate": null
+  },
+  {
+    "url": "ender-mv-1897",
+    "title": "Эндер М.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-mv-1897.jpg",
+    "description": [
+      "Ленинградский художник Эндер Мария Владимировна",
+      "Родился в Санкт-Петербургe в 1897.",
+      "Закончил: «Ленинградский педагогический институт» 1915-18; в частном порядке с М. В. Матюшиным в конце 1910-х годов; «Ленинградская Академия искусств» 1919-22.",
+      "Живописец, художник-график.",
+      "Преподавал: «Институт пролетарских изобразительных искусств (ИНПИИ)» 1929/30?-32. Работал в музее художественной культуры в «Государственный институт художественной культуры (ГИНХУК)» 1923-26/27?",
+      "Жил и работал в Петрограде / Ленинграде.",
+      "Умер в Ленинграде 1942.",
+      "Сестра и братья Б. В., К. В. и Ю. В. Эндер."
+    ],
+    "birthDate": "1897",
+    "deathDate": null
+  },
+  {
+    "url": "ender-iuv-1888",
+    "title": "Эндер Ю.В. ?",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ender-iuv-1888.jpg",
+    "description": [
+      "Ленинградский художник Эндер Юрий Владимирович",
+      "Родился в 1888?",
+      "Жил и работал в Ленинграде начале 1920-х годов.",
+      "Брат и сетры Б. В., К. В. и М. В. Эндер."
+    ],
+    "birthDate": "1888",
+    "deathDate": null
+  },
+  {
+    "url": "endzhelin-endzelin-lia-1927",
+    "title": "Энджелин (Эндзелин) Л.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/endzhelin-endzelin-lia-1927.jpg",
+    "description": [
+      "Латвийский художник Энджелин (Эндзелин) Ливия Яновна",
+      "Родился в 1927.",
+      "Жил и работал в Риге, Латвия."
+    ],
+    "birthDate": "1927",
+    "deathDate": null
+  },
+  {
+    "url": "endzelina-lya-1927",
+    "title": "Эндзелина Л.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/endzelina-lya-1927.jpg",
+    "description": [
+      "Советский художник Эндзелина Ливия Яновна",
+      "Родился 30 октября 1927 года.",
+      "Художник - живописец.",
+      "Умер в 2008 году."
+    ],
+    "birthDate": "1927",
+    "deathDate": null
+  },
+  {
+    "url": "endovitskii-s",
+    "title": "Эндовицкий С.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/endovitskii-s.jpg",
+    "description": [],
+    "deathDate": null
+  },
+  {
+    "url": "endourova-mn-1974",
+    "title": "Эндоурова М.Н. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/endourova-mn-1974.jpg",
+    "description": [
+      "Советский художник Эндоурова Марина Николаевна",
+      "Родился 13 декабря 1974 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1974",
+    "deathDate": null
+  },
+  {
+    "url": "endrikson-em-1907",
+    "title": "Эндриксон Е.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/endrikson-em-1907.jpg",
+    "description": [
+      "Советский художник Эндриксон Евгения Михайловна",
+      "Родился 5 октября 1907 года.",
+      "Художник - живописец.",
+      "Умер в 1994 году."
+    ],
+    "birthDate": "1907",
+    "deathDate": null
+  },
+  {
+    "url": "enkel-mk-1870",
+    "title": "Энкель М.К. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/enkel-mk-1870.jpg",
+    "description": [
+      "Императорский художник Энкель Магнус Кнут",
+      "Родился 9 ноября 1870 года.",
+      "Художник - живописец.",
+      "Умер 27 ноября 1925 года."
+    ],
+    "birthDate": "1870",
+    "deathDate": null
+  },
+  {
+    "url": "enkenberg-m-1797",
+    "title": "Энкенберг М.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/enkenberg-m-1797.jpg",
+    "description": [
+      "Императорский художник Энкенберг Михаэль",
+      "Родился в 1797 году.",
+      "Художник - скульптор.",
+      "Умер в 1805 году."
+    ],
+    "birthDate": "1797",
+    "deathDate": null
+  },
+  {
+    "url": "enkenberg-e",
+    "title": "Энкенберг Э.?",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/enkenberg-e.jpg",
+    "description": [
+      "Императорский художник Энкенберг Элиас",
+      "Родился в ? году.",
+      "Художник - скульптор.",
+      "Умер в 1828 году."
+    ],
+    "deathDate": null
+  },
+  {
+    "url": "enno-na-1873",
+    "title": "Энно Н.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/enno-na-1873.jpg",
+    "description": [
+      "Императорский художник Энно Николай Александрович",
+      "Родился в 1873 году.",
+      "Художник - скульптор.",
+      "Умер 5 ноября 1919 года."
+    ],
+    "birthDate": "1873",
+    "deathDate": null
+  },
+  {
+    "url": "ennosaar-lr-1920",
+    "title": "Энносаар Л.Р. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ennosaar-lr-1920.jpg",
+    "description": [
+      "Советский художник Энносаар Леопольд Рудольфович",
+      "Родился 10 июня 1920 года.",
+      "Художник - живописец.",
+      "Умер в 1999 году."
+    ],
+    "birthDate": "1920",
+    "deathDate": null
+  },
+  {
+    "url": "entelis-ns-1956",
+    "title": "Энтелис Н.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/entelis-ns-1956.jpg",
+    "description": [
+      "Советский художник Энтелис Наталья Семеновна",
+      "Родился 14 октября 1956 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1956",
+    "deathDate": null
+  },
+  {
+    "url": "entina-ii-1957",
+    "title": "Энтина И.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/entina-ii-1957.jpg",
+    "description": [
+      "Советский художник Энтина Инесса Иосифовна",
+      "Родился 13 июня 1957 года.",
+      "Художник - живописец.",
+      "Умер 10 июня 2012 года."
+    ],
+    "birthDate": "1957",
+    "deathDate": null
+  },
+  {
+    "url": "epelbaum-gm-1939",
+    "title": "Эпельбаум Г.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epelbaum-gm-1939.jpg",
+    "description": [
+      "Азербайджанский художник Эпельбаум Григорий Михайлович",
+      "Родился в 1939.",
+      "Жил и работал в Баку, Азербайджан."
+    ],
+    "birthDate": "1939",
+    "deathDate": null
+  },
+  {
+    "url": "epel-baum-nm-1927",
+    "title": "Эпельбаум Н.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epel-baum-nm-1927.jpg",
+    "description": [
+      "Советский художник Эпельбаум Наум Моисеевич",
+      "Родился 27 декабря 1927 года.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1927",
+    "deathDate": null
+  },
+  {
+    "url": "epel-baum-marchenko-bp-1927",
+    "title": "Эпельбаум-Марченко Б.П. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epel-baum-marchenko-bp-1927.jpg",
+    "description": [
+      "Советский художник Эпельбаум-Марченко Брунгильда Петровна",
+      "Родился 27 июня 1927 года.",
+      "Художник - скульптор.",
+      "Умер 21 июня 2014 года."
+    ],
+    "birthDate": "1927",
+    "deathDate": null
+  },
+  {
+    "url": "epov-nn-1931",
+    "title": "Эпов Н.Н. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epov-nn-1931.jpg",
+    "description": [
+      "Советский художник Эпов Николай Николаевич",
+      "Родился 4 апреля 1931 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1931",
+    "deathDate": null
+  },
+  {
+    "url": "epple-ls-1959",
+    "title": "Эппле Л.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epple-ls-1959.jpg",
+    "description": [
+      "Советский художник Эппле Леонид Сергеевич",
+      "Родился 7 сентября 1959 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1959",
+    "deathDate": null
+  },
+  {
+    "url": "epshteyn-hefter-ei-1879",
+    "title": "Эпштейн (Хефтер) Е.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshteyn-hefter-ei-1879.jpg",
+    "description": [
+      "Императорский художник Эпштейн (Хефтер) Елизавета Ивановна",
+      "Родился 11 марта 1879 года.",
+      "Художник - живописец.",
+      "Умер 22 марта 1956 года."
+    ],
+    "birthDate": "1879",
+    "deathDate": null
+  },
+  {
+    "url": "epshteyn-a-1891-92",
+    "title": "Эпштейн А.(92)",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshteyn-a-1891-92.jpg",
+    "description": [
+      "Советский художник Эпштейн Анри (Хаим)",
+      "Родился 20 июня 1891(92) года.",
+      "Художник - живописец.",
+      "Умер в 1944 году."
+    ],
+    "birthDate": "1891",
+    "deathDate": null
+  },
+  {
+    "url": "epshteyn-ga-1928",
+    "title": "Эпштейн Г.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshteyn-ga-1928.jpg",
+    "description": [
+      "Советский художник Эпштейн Геннадий Абрамович",
+      "Родился в 1928 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1928",
+    "deathDate": null
+  },
+  {
+    "url": "epshteyn-i-1956",
+    "title": "Эпштейн И.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshteyn-i-1956.jpg",
+    "description": [
+      "Советский художник Эпштейн Иосиф",
+      "Родился в 1956 году.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1956",
+    "deathDate": null
+  },
+  {
+    "url": "epshteyn-mi-1899",
+    "title": "Эпштейн М.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshteyn-mi-1899.jpg",
+    "description": [
+      "Советский художник Эпштейн Марк Исаевич (Моисей Цалерович)",
+      "Родился в 1899 году.",
+      "Художник - живописец.",
+      "Умер в 1949 году."
+    ],
+    "birthDate": "1899",
+    "deathDate": null
+  },
+  {
+    "url": "epshtein-sb-1925",
+    "title": "Эпштейн С.Б. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/epshtein-sb-1925.jpg",
+    "description": [
+      "Ленинградский художник Эпштейн Соломон Борисович",
+      "Родился в 1925.",
+      "Важные выставки: «Всесоюзная художественная выставка», Москва, 1955; «Советская Россия», Москва, 1960.",
+      "Жил и работал в Ленинграде."
+    ],
+    "birthDate": "1925",
+    "deathDate": null
+  },
+  {
+    "url": "erassi-ms-1823",
+    "title": "Эрасси М.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erassi-ms-1823.jpg",
+    "description": [
+      "Императорский художник Эрасси Михаил Спиридонович",
+      "Родился 20 ноября 1823 года.",
+      "Художник - живописец.",
+      "Умер 10 ноября 1898 года."
+    ],
+    "birthDate": "1823",
+    "deathDate": null
+  },
+  {
+    "url": "erbshteyn-bm-1901",
+    "title": "Эрбштейн Б.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erbshteyn-bm-1901.jpg",
+    "description": [
+      "Советский художник Эрбштейн Борис Михайлович",
+      "Родился 26 мая 1901 года.",
+      "Художник - живописец.",
+      "Умер 13 мая 1963 года."
+    ],
+    "birthDate": "1901",
+    "deathDate": null
+  },
+  {
+    "url": "ergashev-a-1968",
+    "title": "Эргашев А.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ergashev-a-1968.jpg",
+    "description": [
+      "Советский художник Эргашев Алишер",
+      "Родился в 1968 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1968",
+    "deathDate": null
+  },
+  {
+    "url": "ergashev-mh-1959",
+    "title": "Эргашев М.Х. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ergashev-mh-1959.jpg",
+    "description": [
+      "Советский художник Эргашев Муртазо Худойбердиевич",
+      "Родился в 1959 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1959",
+    "deathDate": null
+  },
+  {
+    "url": "erdeli-amgb-1891",
+    "title": "Эрдели А.М.(Г.Б.) ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdeli-amgb-1891.jpg",
+    "description": [
+      "Ужгородский художник Эрдели Адальберт Михайлович (Грыць Бейла)",
+      "Родился 25 мая 1891 года, в городе Загатья, Австралия (Закарпатская область, Украина?).",
+      "Учился в академии искусств, в Будапеште (1911—1915).",
+      "Работал преподавателем в средней школе Мукачева и Ужгорода.",
+      "Участвовал в выставках. Важные выставки — Всесоюзная художественная выставка в Москве (1946).",
+      "Жил и работал в городе Мукачево и Ужгород, Закарпатская область. Умер 19 сентября 1955 года, в городе Ужгород."
+    ],
+    "birthDate": "1891",
+    "deathDate": null
+  },
+  {
+    "url": "erdeli-im-1902",
+    "title": "Эрдели И.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdeli-im-1902.jpg",
+    "description": [
+      "Советский художник Эрдели Иван (Янош) Михайлович",
+      "Родился в 1902 году.",
+      "Художник - живописец.",
+      "Умер в 1974 году."
+    ],
+    "birthDate": "1902",
+    "deathDate": null
+  },
+  {
+    "url": "erdman-br-1899",
+    "title": "Эрдман Б.Р. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdman-br-1899.jpg",
+    "description": [
+      "Советский художник Эрдман Борис Робертович",
+      "Родился 16 февраля 1899 года.",
+      "Художник - живописец.",
+      "Умер 28 февраля 1960 года."
+    ],
+    "birthDate": "1899",
+    "deathDate": null
+  },
+  {
+    "url": "erdni-araeva-yu-1976",
+    "title": "Эрдни-Араева Ю.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdni-araeva-yu-1976.jpg",
+    "description": [
+      "Советский художник Эрдни-Араева Юлия",
+      "Родился в 1976 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1976",
+    "deathDate": null
+  },
+  {
+    "url": "erdyneev-ac-1949",
+    "title": "Эрдынеев А.Ц. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-ac-1949.jpg",
+    "description": [
+      "Советский художник Эрдынеев Александр Цыренович",
+      "Родился в 1949 году.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1949",
+    "deathDate": null
+  },
+  {
+    "url": "erdyneev-dn-1953",
+    "title": "Эрдынеев Д.Н. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-dn-1953.jpg",
+    "description": [
+      "Советский художник Эрдынеев Дмитрий Намжилович",
+      "Родился в 1953 году.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1953",
+    "deathDate": null
+  },
+  {
+    "url": "erdyneev-zhm-1966",
+    "title": "Эрдынеев Ж.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-zhm-1966.jpg",
+    "description": [
+      "Советский художник Эрдынеев Жаргал Максимович",
+      "Родился 30 сентября 1966 года.",
+      "Художник - скульптор.",
+      "Умер 30 сентября 2011 года."
+    ],
+    "birthDate": "1966",
+    "deathDate": null
+  },
+  {
+    "url": "erdyneev-zhn-1951",
+    "title": "Эрдынеев Ж.Н. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-zhn-1951.jpg",
+    "description": [
+      "Советский художник Эрдынеев Жамсаран Нимажапович",
+      "Родился в 1951 году.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1951",
+    "deathDate": null
+  },
+  {
+    "url": "erdyneev-mb-1936",
+    "title": "Эрдынеев М.Б. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-mb-1936.jpg",
+    "description": [
+      "Советский художник Эрдынеев Максим Балсанович",
+      "Родился 6 октября 1936 года.",
+      "Художник - скульптор.",
+      "Умер 9 октября 10) года."
+    ],
+    "birthDate": "1936",
+    "deathDate": null
+  },
+  {
+    "url": "erdyneev-yuch-1965",
+    "title": "Эрдынеев Ю.Ч. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdyneev-yuch-1965.jpg",
+    "description": [
+      "Советский художник Эрдынеев Юрий Чингисович",
+      "Родился 30 апреля 1965 года.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1965",
+    "deathDate": null
+  },
+  {
+    "url": "erdeniyn-erdyneev-ge-1884",
+    "title": "Эрдэнийн (Эрдынеев) Г.Э. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erdeniyn-erdyneev-ge-1884.jpg",
+    "description": [
+      "Советский художник Эрдэнийн (Эрдынеев) Галсан Эрдынеевич",
+      "Родился в 1884 году.",
+      "Художник - живописец.",
+      "Умер 8 апреля 1938 года."
+    ],
+    "birthDate": "1884",
+    "deathDate": null
+  },
+  {
+    "url": "ereshov-sm-1957",
+    "title": "Эрешов С.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ereshov-sm-1957.jpg",
+    "description": [
+      "Советский художник Эрешов Сергей Мамедович",
+      "Родился в 1957 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1957",
+    "deathDate": null
+  },
+  {
+    "url": "erivani-mk-1825",
+    "title": "Эривани М.К. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erivani-mk-1825.jpg",
+    "description": [
+      "Императорский художник Эривани Мирза Кадым Мамед Гусейнович",
+      "Родился в 1825 году.",
+      "Художник - живописец.",
+      "Умер в 1875 году."
+    ],
+    "birthDate": "1825",
+    "deathDate": null
+  },
+  {
+    "url": "eristavi-dv-1931",
+    "title": "Эристави Д.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eristavi-dv-1931.jpg",
+    "description": [
+      "Советский художник Эристави Димитрий Вахтангович",
+      "Родился 18 июня 1931 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1931",
+    "deathDate": null
+  },
+  {
+    "url": "eristova-etlinger-mv-1857",
+    "title": "Эристова (Этлингер) М.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eristova-etlinger-mv-1857.jpg",
+    "description": [
+      "Ленинградский художник Эристова (Этлингер) Мария Васильевна (псевдоним: Казак Мэри)  Mariya Vasilevna (pseudonym: Kazak Meri)",
+      "Родился в Санкт-Петербурге в 1857.",
+      "Учился у М. А. Зичи в Санкт-Петербурге.",
+      "Участвовал в выставках не позже, чем с 1894. Участвовал в выставках передвижников 1904; «Императорская Академия искусств».",
+      "Жил и работал в Париже в 1890-х.",
+      "Умер в Париже в 1934."
+    ],
+    "birthDate": "1857",
+    "deathDate": null
+  },
+  {
+    "url": "eristova-mv-1857",
+    "title": "Эристова М.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eristova-mv-1857.jpg",
+    "description": [
+      "Императорский художник Эристова Мария Васильевна (Мэри Казак)",
+      "Родился в 1857 году.",
+      "Художник - живописец.",
+      "Умер 28 июня 1934 года."
+    ],
+    "birthDate": "1857",
+    "deathDate": null
+  },
+  {
+    "url": "erihson-zaharova-nya-1862",
+    "title": "Эрихсон (Захарова) Н.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erihson-zaharova-nya-1862.jpg",
+    "description": [
+      "Императорский художник Эрихсон (Захарова) Наталья Яковлевна",
+      "Родился в 1862 году.",
+      "Художник - живописец.",
+      "Умер 7 июня 1939 года."
+    ],
+    "birthDate": "1862",
+    "deathDate": null
+  },
+  {
+    "url": "erihson-erikson-lr-1895",
+    "title": "Эрихсон (Эриксон) Л.Р. ?",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erihson-erikson-lr-1895.jpg",
+    "description": [
+      "Московский художник Эрихсон (Эриксон) Л.Р.",
+      "Родился в 1895?",
+      "Жил и работал в Москве в конце в 1910-х годов в начале 1920-х годов."
+    ],
+    "birthDate": "1895",
+    "deathDate": null
+  },
+  {
+    "url": "erihson-nia-1862",
+    "title": "Эрихсон Н.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erihson-nia-1862.jpg",
+    "description": [
+      "Московский художник Эрихсон Наталия Яковлевна",
+      "Родился в 1862.",
+      "Учился в Москве.",
+      "Жил и работал в России; эмигрировал после революции октября 1917 года, поселился во Франции.",
+      "Умер не ранее, чем в 1939?"
+    ],
+    "birthDate": "1862",
+    "deathDate": null
+  },
+  {
+    "url": "erkenov-vi-1941",
+    "title": "Эркенов В.И. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erkenov-vi-1941.jpg",
+    "description": [
+      "Советский художник Эркенов Владимир Ибрагимович",
+      "Родился в 1941 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1941",
+    "deathDate": null
+  },
+  {
+    "url": "erkenov-ih-1954",
+    "title": "Эркенов И.Х. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erkenov-ih-1954.jpg",
+    "description": [
+      "Советский художник Эркенов Исуф Хасанович",
+      "Родился 2 октября 1954 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1954",
+    "deathDate": null
+  },
+  {
+    "url": "erkenova-ov-1961",
+    "title": "Эркенова О.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erkenova-ov-1961.jpg",
+    "description": [
+      "Советский художник Эркенова Ольга Васильевна",
+      "Родился 19 ноября 1961 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1961",
+    "deathDate": null
+  },
+  {
+    "url": "erler-ln-1932",
+    "title": "Эрлер Л.Н. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erler-ln-1932.jpg",
+    "description": [
+      "Минский художник Эрлер Лидия Николаевна",
+      "Родился 6 августа в г. Благовещенск в 1932.",
+      "Окончил Крымское художественное училище им. Н. С. Самокиша (1954), Белорусский государственный театрально-художественный институт (1962).",
+      "Учителя по специальности: В. К. Цвирко, М. В. Данцига и А. П. Мозолева.",
+      "Дипломная работа — картина «Утро юности».",
+      "Участвовал в выставках: республиканских (с 1963).",
+      "Живописец. Работал в жанрах сюжетно-тематической картины, портрета.",
+      "Основные произведения — картины «Девушка в красном свитере» (1962), «Колыбельная» (1963), «В детской консультации» (1964), посвященные современности; портреты токаря Г. Дзигуна (1963), создателя хора в деревне Озерщина Т. Лопатиной (1969—1970); пейзажи «Окраина Минска» (1965), «Тишина» (1967).",
+      "Жил и работал в Минске, Белоруссия.",
+      "Заслуженный деятель искусств БССР Т. И. Лопатина",
+      "Умер 29 мая (июня) 2008 года."
+    ],
+    "birthDate": "1932",
+    "deathDate": null
+  },
+  {
+    "url": "erlih-vi1924",
+    "title": "Эрлих В.И.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erlih-vi1924.jpg",
+    "description": [
+      "Днепропетровский художник Эрлих Владимир Исаакович",
+      "Родился 25 сентября 1924 года в селе Новопавловка Одесской области.",
+      "Закончил Днепропетровское художественное училище.",
+      "Учителя по специальности: Панин М.Н., Погребняк Н.С.",
+      "Член Союза художников СССР.",
+      "Участник областной выставки профессиональных художников, республиканской выставки.",
+      "Написал сотни портретов — лирических, романтических и камерных.",
+      "Работы находятся в Днепропетровском художественном музее, Днепропетровском историческом музее им. Д. И. Яворницкого, частных коллекциях и музейных собраниях.",
+      "Умер в 2001 году."
+    ],
+    "birthDate": "1924",
+    "deathDate": null
+  },
+  {
+    "url": "erman-ls-1909",
+    "title": "Эрман Л.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erman-ls-1909.jpg",
+    "description": [
+      "Советский художник Эрман Лев Самсонович",
+      "Родился в 1909 году.",
+      "Художник - живописец.",
+      "Умер в ? году."
+    ],
+    "birthDate": "1909",
+    "deathDate": null
+  },
+  {
+    "url": "erte-tyrtov-rp-1892",
+    "title": "Эрте (Тыртов) Р.П. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erte-tyrtov-rp-1892.jpg",
+    "description": [
+      "Советский художник Эрте (Тыртов) Роман Петрович",
+      "Родился 4 декабря 1892 года.",
+      "Художник - живописец.",
+      "Умер 21 декабря 1990 года."
+    ],
+    "birthDate": "1892",
+    "deathDate": null
+  },
+  {
+    "url": "ertevtsian-shk-1922",
+    "title": "Эртевцян Ш.К. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ertevtsian-shk-1922.jpg",
+    "description": [
+      "Армянский художник Эртевцян Шант Карапетович",
+      "Родился в г. Александрополь, Армения, в 1922.",
+      "Закончил: «Ереванский художественный техникум» до 1941; «Ереванский художественно-театральный институт» до 1950.",
+      "Участвовал в выставках с 1948.",
+      "Преподавал: «Ереванский художественно-театральный институт» с 1950.",
+      "Жил и работал в Ереване, Армения.",
+      "Умер в 1980-х годах."
+    ],
+    "birthDate": "1922",
+    "deathDate": null
+  },
+  {
+    "url": "ertel-ld-1866",
+    "title": "Эртель Л.Д. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ertel-ld-1866.jpg",
+    "description": [
+      "Ленинградский художник Эртель Леонид Дмитриевич",
+      "Родился в 1866.",
+      "Закончил: «Императорская Академия искусств» 1887-95."
+    ],
+    "birthDate": "1866",
+    "deathDate": null
+  },
+  {
+    "url": "ertuganov-shs-1932",
+    "title": "Эртуганов Ш.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ertuganov-shs-1932.jpg",
+    "description": [
+      "Советский художник Эртуганов Шамиль Седекович",
+      "Родился в 1932 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1932",
+    "deathDate": null
+  },
+  {
+    "url": "erzia-nefedov-sd-1975",
+    "title": "Эрьзя (Нефедов) С.Д. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/erzia-nefedov-sd-1975.jpg",
+    "description": [
+      "Московский художник Эрьзя (Нефедов) Степан Дмитриевич",
+      "Родился в 1975.",
+      "Наиболее известен как скульптор, график.",
+      "Жил и работал в Москве до 1926 (в Екатеринбурге в 1919); во Франции и Аргентине в 1926-50; в Москве с 1950.",
+      "Умер в 1959."
+    ],
+    "birthDate": "1975",
+    "deathDate": null
+  },
+  {
+    "url": "esanov-tya-1953",
+    "title": "Эсанов Т.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/esanov-tya-1953.jpg",
+    "description": [
+      "Советский художник Эсанов Туркман Ядгарович",
+      "Родился 20 января 1953 года.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1953",
+    "deathDate": null
+  },
+  {
+    "url": "esengel-dyev-b-1942",
+    "title": "Эсенгельдыев Б.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/esengel-dyev-b-1942.jpg",
+    "description": [
+      "Советский художник Эсенгельдыев Байраммурад",
+      "Родился 12 декабря 1942 года.",
+      "Художник - скульптор.",
+      "Умер 5 декабря 1993 года."
+    ],
+    "birthDate": "1942",
+    "deathDate": null
+  },
+  {
+    "url": "esipov-v-1917",
+    "title": "Эсипов В.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/esipov-v-1917.jpg",
+    "description": [
+      "Советский художник Эсипов Вячеслав",
+      "Родился в 1917 году.",
+      "Художник - живописец.",
+      "Умер в ? году."
+    ],
+    "birthDate": "1917",
+    "deathDate": null
+  },
+  {
+    "url": "eskaraeva-lk-1948",
+    "title": "Эскараева Л.К. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eskaraeva-lk-1948.jpg",
+    "description": [
+      "Советский художник Эскараева Людмила Калдоровна",
+      "Родился 15 сентября 1948 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1948",
+    "deathDate": null
+  },
+  {
+    "url": "eskel-yur-1927",
+    "title": "Эскел Ю.Р. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eskel-yur-1927.jpg",
+    "description": [
+      "Советский художник Эскел Юта Райувна",
+      "Родился 18 сентября 1927 года.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1927",
+    "deathDate": null
+  },
+  {
+    "url": "eskel-a-1922",
+    "title": "Эскель А.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eskel-a-1922.jpg",
+    "description": [
+      "Советский художник Эскель Альберт",
+      "Родился 24 февраля 1922 года.",
+      "Художник - скульптор.",
+      "Умер 18 февраля 1975 года."
+    ],
+    "birthDate": "1922",
+    "deathDate": null
+  },
+  {
+    "url": "eskin-ss-1890",
+    "title": "Эскин С.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eskin-ss-1890.jpg",
+    "description": [
+      "Советский художник Эскин Самуил Соломонович",
+      "Родился в 1890 году.",
+      "Художник - живописец.",
+      "Умер в 1942 году."
+    ],
+    "birthDate": "1890",
+    "deathDate": null
+  },
+  {
+    "url": "esmont-av-1950",
+    "title": "Эсмонт А.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/esmont-av-1950.jpg",
+    "description": [
+      "Краснодарский художник Эсмонт Александр Вячеславович",
+      "Родился в 1950.",
+      "Жил и работал в Краснодаре."
+    ],
+    "birthDate": "1950",
+    "deathDate": null
+  },
+  {
+    "url": "esmont-ms-1937",
+    "title": "Эсмонт М.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/esmont-ms-1937.jpg",
+    "description": [
+      "Советский художник Эсмонт Мария Сергеевна",
+      "Родился 28 ноября 1937 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1937",
+    "deathDate": null
+  },
+  {
+    "url": "esmurziev-za-1950",
+    "title": "Эсмурзиев З.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/esmurziev-za-1950.jpg",
+    "description": [
+      "Чеченский художник Эсмурзиев Зелимхан Ахметович",
+      "Родился в 1950.",
+      "Жил и работал в г. Грозный, Чечня-Ингушетия."
+    ],
+    "birthDate": "1950",
+    "deathDate": null
+  },
+  {
+    "url": "espe-nia-1907",
+    "title": "Эспе Н.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/espe-nia-1907.jpg",
+    "description": [
+      "Эстонский художник Эспе Нигуль Янович",
+      "Родился в 1907.",
+      "Важные выставки: «Всесоюзная художественная выставка», Москва, 1946; «Всесоюзная художественная выставка», Москва, 1947; «Всесоюзная художественная выставка», Москва, 1950.",
+      "Жил и работал в Тарту, Эстония.",
+      "Умер в 1970."
+    ],
+    "birthDate": "1907",
+    "deathDate": null
+  },
+  {
+    "url": "essen-bn-1893",
+    "title": "Эссен Б.Н. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/essen-bn-1893.jpg",
+    "description": [
+      "Ленинградский художник Эссен Бенита Николаевна",
+      "Родился в 1893.",
+      "Учился с К. С. Петров-Водкин.",
+      "Участвовал в выставке «Жар-цвет» 1924-28.",
+      "Член общества «Пролеткульт».",
+      "Жил и работал в Петрограде / Ленинграде."
+    ],
+    "birthDate": "1893",
+    "deathDate": null
+  },
+  {
+    "url": "essen-ee-1879",
+    "title": "Эссен Э.Э. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/essen-ee-1879.jpg",
+    "description": [
+      "Императорский художник Эссен Эдуард Эдуардович фон",
+      "Родился 14 января 1879 года.",
+      "Художник - живописец.",
+      "Умер 23 января 1931 года."
+    ],
+    "birthDate": "1879",
+    "deathDate": null
+  },
+  {
+    "url": "estis-ga-1963",
+    "title": "Эстис Г.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/estis-ga-1963.jpg",
+    "description": [
+      "Советский художник Эстис Галина Адриановна",
+      "Родился в 1963 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1963",
+    "deathDate": null
+  },
+  {
+    "url": "estis-na-1937",
+    "title": "Эстис Н.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/estis-na-1937.jpg",
+    "description": [
+      "Советский художник Эстис Николай Александрович",
+      "Родился 8 августа 1937 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1937",
+    "deathDate": null
+  },
+  {
+    "url": "estis-on-1964",
+    "title": "Эстис О.Н. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/estis-on-1964.jpg",
+    "description": [
+      "Советский художник Эстис Олег Николаевич",
+      "Родился в 1964 году.",
+      "Художник - живописец.",
+      "Умер в 1999 году."
+    ],
+    "birthDate": "1964",
+    "deathDate": null
+  },
+  {
+    "url": "etenko-lf-1949",
+    "title": "Этенко Л.Ф. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/etenko-lf-1949.jpg",
+    "description": [
+      "Киевский художник Этенко Людмила Федоровна",
+      "Родился 22 ноября 1949 года, в городе Донецк.",
+      "Окончил Львовский государственный институт прикладного и декоративного искусства (1974).",
+      "Преподаватели по специальности: Р. Сельский, И. Боднар.",
+      "Живописец. Работал в области монументального искусства, станковой живописи. Создавал витражи, иконы.",
+      "Член Национального Союза Художников Украины (1985).",
+      "Участвовал в выставках: республиканских, всесоюзных и международных. Персональные выставки — в город Геттинген (Германия, 1997, 2000).",
+      "Основные произведения: «Эхо желтого звука» (1989), «Ангел со свечой» (1995), «Праздник семьи», «Богоматерь Владимирская» (1998), «Архангел Гавриил» (1997; 1999), «Сон Иосифа» (2000), «Ангел-хранитель», «Богоматерь Печерская», «Образ Пресвятой Богородицы со Спасителем» (2001).",
+      "Жил и работал в городе Киев."
+    ],
+    "birthDate": "1949",
+    "deathDate": null
+  },
+  {
+    "url": "etinger-vg-1917",
+    "title": "Этингер В.Г. ?",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/etinger-vg-1917.jpg",
+    "description": [
+      "Московский художник Этингер Владимир Гаврилович",
+      "Родился в 1917?",
+      "Участвовал в выставках с 1952.",
+      "Наиболее известный как художник кино.",
+      "Жил и работал в Москве.",
+      "Умер в 1960 году."
+    ],
+    "birthDate": "1917",
+    "deathDate": null
+  },
+  {
+    "url": "ettingen-ef-1885-01",
+    "title": "Эттинген Е.Ф. (01",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ettingen-ef-1885-01.jpg",
+    "description": [
+      "Советский художник Эттинген Елена Францевна (Francois Angiboult)",
+      "Родился 21 мая 1885(01 года.",
+      "Художник - живописец.",
+      "Умер 3 мая 1950 года."
+    ],
+    "birthDate": "1885",
+    "deathDate": null
+  },
+  {
+    "url": "efendi-effendi-mm-1896",
+    "title": "Эфенди (Эффенди) М.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/efendi-effendi-mm-1896.jpg",
+    "description": [
+      "Азербайджанский художник Эфенди (Эффенди) Маргарита Михайловна",
+      "Родился в 1896/98?",
+      "Закончил: «Ленинградский высший художественно-технический институт»? до 1929.",
+      "Жил и работал в Азербайджане.",
+      "Умер в 1961."
+    ],
+    "birthDate": "1896",
+    "deathDate": null
+  },
+  {
+    "url": "efendiev-km-1927",
+    "title": "Эфендиев К.М. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/efendiev-km-1927.jpg",
+    "description": [
+      "Азербайджанский художник Эфендиев Коркмаз Султан Меджид оглы",
+      "Родился в 1927.",
+      "Закончил: «Санкт-Петербургский государственный академический институт живописи, скульптуры и архитектуры имени И.Е. Репина» до 1955.",
+      "Жил и работал в Баку, Азербайджан."
+    ],
+    "birthDate": "1927",
+    "deathDate": null
+  },
+  {
+    "url": "efendiev-ks-1927",
+    "title": "Эфендиев К.С. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/efendiev-ks-1927.jpg",
+    "description": [
+      "Советский художник Эфендиев Корхмаз Султан Меджидович",
+      "Родился 15 апреля 1927 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1927",
+    "deathDate": null
+  },
+  {
+    "url": "efendiev-eb-1946",
+    "title": "Эфендиев Э.Б. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/efendiev-eb-1946.jpg",
+    "description": [
+      "Закарпатский художник Эфендиев Эльдар Бахрам Оглу",
+      "Родился 11 июля 1946 года, в городе Баку (Азербайджан).",
+      "Окончил Львовский государственный институт прикладного и декоративного искусства (1972).",
+      "Преподаватели по специальности: П. Балла, М. Медвецкий, В. Звенигородский.",
+      "Живописец.",
+      "Член Национального Союза Художников Украины (1979).",
+      "Работал в городе Кировабаде (ныне Гянджа, Азербайджан): в педагогическом училище (1974—1975), главным художником (1975—1984).",
+      "Участвовал в выставках с 1966 года. Персональные выставки — в Киеве (1966), Баку (1975—1977), Москве (1976).",
+      "Основные произведения: «Реквием» (1975), «Боливийский дневник» (1978), «Княжий сокол» (2006), «Кусочек чистого неба» (1978), «Сухая рыба» (1981), «Сон пилигрима» (1992), «Фоторепортер» (1977), «Сухая рыба» (1980), «Тревожный монолог» (1986), «Сон пилигрима» (1991), «Натюрморт» (1993).",
+      "Произведения хранятся в Львовской галереи искусств.",
+      "Жил и работал в городе Львов."
+    ],
+    "birthDate": "1946",
+    "deathDate": null
+  },
+  {
+    "url": "efroimson-iia-1913",
+    "title": "Эфроймсон (Эфроимсон) И.Я. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/efroimson-iia-1913.jpg",
+    "description": [
+      "Харьковский художник Эфроимсон Илья Яковлевич",
+      "Родился 14 февраля 1913 в Симферополе.",
+      "Учился: «Харьковский государственный художественный институт» (1950).",
+      "Учителя по специальности – С. Прохоров, О. Кокель, С. Беседин.",
+      "Работал в отрасли станковой живописи и графики.",
+      "Участник Великой Отечественной войны. Награжден медалями.",
+      "Участвовал в выставках: республиканских с 1957, всесоюзных с 1963.",
+      "Основные произведения: литографии «Новая линия в колхоз» (1961); «Старт» (1963); «Освобождение» (1964); диорамы (в соавторстве из В. Парчевским, В. Мокрожицким): «Бой за село Соколове» (Харьковская области, с. Соколиное, Народный музей советско-чехословацкой дружбы), «Корсунь-шевченковская битва» (Черкасская области, Корсунь-шевченковский музей) и другие.",
+      "Жил и работал в Харькове. Умер 16 января 1992 года."
+    ],
+    "birthDate": "1913",
+    "deathDate": null
+  },
+  {
+    "url": "efros-gg-1902",
+    "title": "Эфрос Г.Г. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/efros-gg-1902.jpg",
+    "description": [
+      "Советский художник Эфрос Герасим Григорьевич",
+      "Родился 2 июля 1902 года.",
+      "Художник - живописец.",
+      "Умер 12 июля 1979 года."
+    ],
+    "birthDate": "1902",
+    "deathDate": null
+  },
+  {
+    "url": "efros-l-1949",
+    "title": "Эфрос Л.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/efros-l-1949.jpg",
+    "description": [
+      "Советский художник Эфрос Леонид",
+      "Родился в 1949 году.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1949",
+    "deathDate": null
+  },
+  {
+    "url": "ehelayd-o-1913",
+    "title": "Эхелайд О.",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/ehelayd-o-1913.jpg",
+    "description": [
+      "Советский художник Эхелайд Оле",
+      "Родился 1 мая 1913 года.",
+      "Художник - скульптор.",
+      "Умер в ? году."
+    ],
+    "birthDate": "1913",
+    "deathDate": null
+  },
+  {
+    "url": "eshba-me-1924",
+    "title": "Эшба М.Е. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eshba-me-1924.jpg",
+    "description": [
+      "Советский художник Эшба Марина Ефремовна",
+      "Родился 20 июля 1924 года.",
+      "Художник - скульптор.",
+      "Умер 17 июля 2002 года."
+    ],
+    "birthDate": "1924",
+    "deathDate": null
+  },
+  {
+    "url": "eshkichevich-vk-1875",
+    "title": "Эшкичевич В.К. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eshkichevich-vk-1875.jpg",
+    "description": [
+      "Ленинградский художник Эшкичевич Василий Константинович",
+      "Родился в 1875.",
+      "Закончил: «Императорская Академия искусств» 1900-08."
+    ],
+    "birthDate": "1875",
+    "deathDate": null
+  },
+  {
+    "url": "eel-ma-hv-1934",
+    "title": "Ээльма Х.В. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eel-ma-hv-1934.jpg",
+    "description": [
+      "Советский художник Ээльма Херальд Виллемович",
+      "Родился 26 марта 1934 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1934",
+    "deathDate": null
+  },
+  {
+    "url": "eel-ma-ya-1934",
+    "title": "Ээльма Ы.А. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eel-ma-ya-1934.jpg",
+    "description": [
+      "Советский художник Ээльма Ыннелейд-Астрид Арнольдовна",
+      "Родился 11 февраля 1934 года.",
+      "Художник - живописец."
+    ],
+    "birthDate": "1934",
+    "deathDate": null
+  },
+  {
+    "url": "eyubov-db-1943",
+    "title": "Эюбов Д.Б. ",
+    "image": "https://socrealizm.com.ua/uploads/gallery/artists/eyubov-db-1943.jpg",
+    "description": [
+      "Советский художник Эюбов Джамаладдин Билиалович",
+      "Родился 2 мая 1943 года.",
+      "Художник - скульптор."
+    ],
+    "birthDate": "1943",
+    "deathDate": null
+  }
 ]
