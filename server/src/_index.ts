@@ -40,27 +40,6 @@ const { SERVER_PORT } = process.env
 //   response.send(true)
 // })
 
-// app.get('/join-scraped', async (request: Request, response: Responce) => {
-//   let sum = 0
-//   for await (const letter of scrapedVocabulary) {
-//     const file = await storage.read(letter + '.json')
-
-//     if (!file)
-//       console.log(`${letter} -`)
-//     else {
-//       // await storage.pushArray('all.json', file as any[])
-//       // console.log(`${letter} ${(file as any[]).length}`)
-//       sum += (file as any[]).length
-//     }
-//   }
-
-//   console.log('sum', sum)
-
-//   const file = await storage.read('all.json')
-//   if (file)
-//     console.log('file', (file as any[]).length)
-//   response.send(true)
-// })
 
 // app.get('/split-scraped', async (request: Request, response: Responce) => {
 //   let sum = 0

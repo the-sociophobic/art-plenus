@@ -27,7 +27,7 @@ class storage {
   
   static write = (fileName: string, dataToSave: object) => {
     const filePath = this.createFilePath(fileName)
-  
+
     fs.writeFile(
       filePath,
       JSON.stringify(dataToSave),

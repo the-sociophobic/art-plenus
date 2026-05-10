@@ -22,3 +22,9 @@ export type ArtistRequestType = {
 }
 
 export type ArtistResponceType = ArtistType
+
+export type JoinScrapedRequestType = {}
+export type JoinScrapedResponceType = boolean
+
+export type CleanScrapedRequestType = JoinScrapedRequestType
+export type CleanScrapedResponceType = JoinScrapedResponceType

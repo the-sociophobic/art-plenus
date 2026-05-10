@@ -1,7 +1,9 @@
+import { RouteType } from '../types/routes.type'
+
 import FoundArtists from '../routes/FoundArtists'
 import Artist from '../routes/Artist'
-
-import { RouteType } from '../types/routes.type'
+import JoinScraped from '../routes/JoinScraped'
+import CleanScraped from '../routes/CleanScraped'
 
 
 const routes: RouteType[] = [
@@ -14,6 +16,16 @@ const routes: RouteType[] = [
     type: 'POST',
     path: '/artist',
     fn: Artist
+  },
+  {
+    type: 'GET',
+    path: '/join-scraped',
+    fn: JoinScraped
+  },
+  {
+    type: 'GET',
+    path: '/clean-scraped',
+    fn: CleanScraped
   },
 ]
 
